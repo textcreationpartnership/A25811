@@ -1,0 +1,1267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aristotle's manual of choice secrets, shewing the whole mystery of generation : with receipts to prevent barrenness, and cause conception : very necessary to be known and practiced by all midwives, nurses, &amp; young married women / translated out of Latin by J.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25811</idno>
+            <idno type="STC">Wing A3688B</idno>
+            <idno type="STC">ESTC R172506</idno>
+            <idno type="EEBO-CITATION">25908658</idno>
+            <idno type="OCLC">ocm 25908658</idno>
+            <idno type="VID">109751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1734:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aristotle's manual of choice secrets, shewing the whole mystery of generation : with receipts to prevent barrenness, and cause conception : very necessary to be known and practiced by all midwives, nurses, &amp; young married women / translated out of Latin by J.P.</title>
+                  <author>Aristotle, pseud.</author>
+                  <author>P. J.</author>
+               </titleStmt>
+               <extent>[4], 5-135 [i.e. 142] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Back, ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect:  all after p. 116 incorrectly numbered.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Obstetrics --  Early works to 1800.</term>
+               <term>Neonatology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109751:1"/>
+            <pb facs="tcp:109751:1"/>
+            <p>
+               <hi>ARISTOTLE</hi>'s MANUAL Of Choice SECRETS, SHEWING The Whole Myſtery of GENERATION.</p>
+            <p>WITH Receipts to prevent BARRENNESS, And Cauſe CONCEPTION.</p>
+            <p>Very Neceſſary to be Known and Practiced by all <hi>Midwives, Nurſes,</hi> &amp; <hi>Young
+Married Women.</hi>
+            </p>
+            <p>Tranſlated out of <hi>Latin</hi> by <hi>J. P.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Back,</hi> at the <hi>Black-Boy</hi> on
+<hi>London-Bridge,</hi> 1699.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:109751:2"/>
+            <p>
+               <figure>
+                  <figDesc>a wealthy woman is attended by midwives, one of whom holds her newborn baby, in her
+bedchamber</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>Here the good Women do attend,</l>
+               <l>The Child-bed-womans Throws,</l>
+               <l>Till God a ſafe Deliverance ſends,</l>
+               <l>And turns to Joy her Woes.</l>
+            </lg>
+            <pb facs="tcp:109751:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109751:3"/>
+            <pb n="5" facs="tcp:109751:3" rendition="simple:additions"/>
+            <head>
+               <hi>ARISTOTLE</hi>'s MANUAL Of Choice SECRETS.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> The Office and Duty of an Expert Midwife, in giving a right Judgment
+whether a Woman has Conceived or not.</head>
+               <p>A Midwife, when ſhe is required to give her Judgment, muſt not do it haſtily, but be very
+Circum<g ref="char:EOLhyphen"/>ſpect
+<pb n="6" facs="tcp:109751:4"/> and Deliberate in de<g ref="char:EOLhyphen"/>termining whether a Woman has Conceived or no, becauſe
+many have Diſcredited them<g ref="char:EOLhyphen"/>ſelves by Judging too Raſh<g ref="char:EOLhyphen"/>ly in this Caſe, which has been very
+detrimental to their Practice; for there is nothing more Diſappointing, and Ridiculous, than to
+aſ<g ref="char:EOLhyphen"/>ſure a Woman ſhe is with Child, &amp; afterward it proves the contrary: For, though there
+may be ſome appear<g ref="char:EOLhyphen"/>ances, by the riſing of the Bel<g ref="char:EOLhyphen"/>ly, and a kind of motion, yet this may
+proceed from ſome<g ref="char:EOLhyphen"/>thing elſe, as from Wind or Water, &amp;c. which break<g ref="char:EOLhyphen"/>ing away, cauſes a
+ſinking of the Belly, and has indeed de<g ref="char:EOLhyphen"/>ceived many, eſpecially Wo<g ref="char:EOLhyphen"/>men in years.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="7" facs="tcp:109751:4"/>
+               <head>
+                  <hi>CHAP. II.</hi> Of True Conception, with the Signs of it.</head>
+               <p>THe <hi>Signs of Conception</hi> are, If the Woman Receive an Extraordinary Delight in the
+Company of her Hus<g ref="char:EOLhyphen"/>band, and her <hi>Menſes</hi> are ſtayed. If ſhe has a kind of Yauning and
+Stretching, and feels within her (at certain times) a Shaking or Quiver<g ref="char:EOLhyphen"/>ing, with a kind of
+Chillineſs felt chiefly between the Back and Shoulders, attended with ſome Pains there and
+about the Navel; a Rumbling, or Diſquietneſs about the Ne<g ref="char:EOLhyphen"/>ther Belly, which happens
+<pb n="8" facs="tcp:109751:5"/> upon the cloſing of the Neck of the <hi>Matrix</hi> on Con<g ref="char:EOLhyphen"/>ception, and the
+Shrinking of the whole Frame of it, to Embrace the Cloſer and Warmer the Materials of Generation;
+and thereupon ſhe feels a kind of Tickling, yet in few days is afflicted with Squeamiſhneſs,
+much Spitting, Dullneſs, and a de<g ref="char:EOLhyphen"/>cay of Appetite, if not with Reaching, and Vomiting, Longing
+for one ſort of Di<g ref="char:EOLhyphen"/>et more than another, con<g ref="char:EOLhyphen"/>trary to her wonted Inclina<g ref="char:EOLhyphen"/>tion at other times. If
+ſhe finds her Belly fall or grow flat, and ſoon after Swell a<g ref="char:EOLhyphen"/>gain, and grow bigger, her Hips
+and Reins inlarge, <hi>Then there is an undoubted Concep<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:109751:5"/>
+                  <hi>Again,</hi> ſome indeed have, in ſome Meaſure, their <hi>Men<g ref="char:EOLhyphen"/>ſes</hi>
+after Conception, but theſe are of a very Cold and Moiſt Conſtitution; yet, o<g ref="char:EOLhyphen"/>ver and above
+the other ſigns, towards the ſecond Month, their Eyes grow hol<g ref="char:EOLhyphen"/>low, the Lids looſe and
+Limber, the Veins in the Corner of the Eyes more ſwelled and bigger then at other times, the
+Whites of the Eyes turned Blewiſh, the Veins and Arteries of the Neck puffed up, and more
+apparent than uſual; the Breſts grow Big, Hard, and are ſubject to ſmall Pains and
+Prickings, and contain Milk. If the Urin be White and clear, mingled with little
+<pb n="10" facs="tcp:109751:6"/> Moats, and on the top, after ſetling, it appears in colours Clouded, as it
+were like a <hi>Rainbow,</hi> or of an <hi>Opal</hi> colour, and there appears at the bot<g ref="char:EOLhyphen"/>tom a
+thick ſediment or ſet<g ref="char:EOLhyphen"/>ling, which ſhaken ſpreads it ſelf into particles, Swiming up and
+down in the Urine like Carded Wool. Towards the end, the Urin thick &amp; Rediſh, by reaſon of
+the long retenti<g ref="char:EOLhyphen"/>on of their <hi>Natural</hi> Courſes.</p>
+               <p>Theſe <hi>Signs</hi> and <hi>Symptoms</hi> being ſeriouſly Enquired into, by a Sober
+Judicious <hi>Midwife,</hi> will give ſuch a Light, that Joyned with her own Expe<g ref="char:EOLhyphen"/>rience, ſhe
+can't eaſily be miſ<g ref="char:EOLhyphen"/>taken, becauſe all the Learned in this Myſtery, aprove <hi>them as True
+Signs of Conception.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="11" facs="tcp:109751:6"/>
+               <head>
+                  <hi>CHAP. III.</hi> Of Falſe Conception, and the Signs of it.</head>
+               <p>FAlſe Conception hath deceived many, &amp; ſome<g ref="char:EOLhyphen"/>times proved more painful and dangerous than
+True ones. Therefore I ſhall give an account what they are, with their Signs, &amp;c.
+<hi>viz.</hi> It is ſometimes a Lump of Fleſh gathered together like the Gizzard of a Fowl,
+ſometimes greater and ſometimes leſſer, according to the continuance of it; for Nature
+commonly Expelleth in the third or fourth, if not the Second Month: ſometimes it is cau<g ref="char:EOLhyphen"/>ſed by
+a thing call'd a <hi>Mole,</hi>
+                  <pb n="12" facs="tcp:109751:7"/> exceeding the other in big<g ref="char:EOLhyphen"/>neſs, with which ſome Wo<g ref="char:EOLhyphen"/>men have been troubled
+a Year or two, and ſometimes more. And of theſe there are two kinds. The one is a Maſs
+without Shape or Form, though fleſhy, hard and firm, bred within the <hi>Matrix,</hi> cleaving to
+the ſide of it, and this is called a <hi>true one.</hi> The other, called a <hi>falſe one,</hi>
+is of three kinds, <hi>viz.</hi> A groſs collection of Windi<g ref="char:EOLhyphen"/>neſs, Water a maſſed in Films,
+or a heaping together of Hu<g ref="char:EOLhyphen"/>mours, and have their Places within the Womb. Theſe are often bred
+together with the Child, and are frequent<g ref="char:EOLhyphen"/>ly the Death of it, becauſe the Child is deceived of
+its
+<pb n="13" facs="tcp:109751:7"/> Nouriſhment which is carry<g ref="char:EOLhyphen"/>ed to the <hi>Mole,</hi> or being In<g ref="char:EOLhyphen"/>cumbered,
+cannot <hi>grow to Perfection.</hi>
+               </p>
+               <p>There are in theſe ſome Common Signs with the True one, as ſuppreſſion of the
+<hi>Menſes,</hi> depraved Appetite, Loathing of Meats, Peukings, Swellings of the Belly and
+Breſts; and thereby many, even Midwives, have been deceived. However in theſe they differ,
+<hi>viz.</hi> In a <hi>falſe Conception</hi> or <hi>Mole,</hi> the Face is uſually puffed up,
+the Breaſts fall after Swelling, grow Limber and are without Milk. The Thighs, Arms and Leggs
+grow Lame, the Face Wan &amp; Meagre, though towards Night they puff out
+<pb n="14" facs="tcp:109751:8"/> again ſuddenly and very hard, the Belly being for the moſt part of an equal
+roundneſs, with divers continuing Pricking Pains in the bottom of it; an uneaſineſs in going,
+and a Rumbling Windineſs.</p>
+               <p>As to the Motion, the <hi>falſe Conception</hi> not being anima<g ref="char:EOLhyphen"/>ted when it moves, which is
+heavily, it proceeds rather from the Expulſive faculty of the Mother, than of it ſelf, which
+having no Liv<g ref="char:EOLhyphen"/>ing Soul, endeavoureth not to come forth. If the Wo<g ref="char:EOLhyphen"/>man lies on her Back and
+Cruſhes her Belly, it will lie in the ſame form without Touching.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="15" facs="tcp:109751:8"/>
+               <head>
+                  <hi>CHAP. IV.</hi> Shewing by the Signs, whether a Woman ſhall be delivered of a Boy or a
+Girl.</head>
+               <p>THe <hi>Midwife</hi> having given her Opinion the Wo<g ref="char:EOLhyphen"/>man is certainly with Child, many times a
+Nice Queſtion is ſtarted, <hi>viz. Whether it be a Boy or a Girl?</hi> For Mothers are very
+deſirous to know what they carry, if it be poſ<g ref="char:EOLhyphen"/>ſible for them to be certi<g ref="char:EOLhyphen"/>fied in it: Then as
+before, ſhe muſt Deliberate, and not Determine by Gueſs, for ſo, notwithſtanding ſhe
+may ſome times be in the right, but oftener in the Wrong, and be accounted of no know<g ref="char:EOLhyphen"/>ing
+<pb n="16" facs="tcp:109751:9"/> Experience in this Nice Point.</p>
+               <p>
+                  <hi>If it be a Boy,</hi> the Nipple waxeth Red and ſometimes Blackiſh, eſpecially about
+the third or fourth Month, when the Woman begins to quick<g ref="char:EOLhyphen"/>en, and the colour in the Mothers Face
+rather grows more Lively and freſh, than decreaſing or declining to Paleneſs. The right
+Breaſt is harder and firmer; and the Milk grows whiter and thicker, and being ſpirted againſt
+a Looking-glaſs, or ſmooth Steel, the ſmall Sparkles continue round like Pearls, and in Water
+mingles not, but ſinks directly to the bottom; and if you make a Cake with Milk, it will in
+<pb n="17" facs="tcp:109751:9"/> the Baking continue firm and very cloſe, if the Milk of a Boy; if not, it
+will be Spungy. The Right Side of the Belly will be bigger and more Cop<g ref="char:EOLhyphen"/>pid than the Left. The
+ſtir<g ref="char:EOLhyphen"/>ring of the Womb is oftener and more lively. The Male Child lieth above the Navel, by
+reaſon of it's heat. The Mother will be quick and Nimble, and of a healthful <hi>Conſtitution
+in her condition,</hi> &amp;c.</p>
+               <p>If it be a Girl, it lieth low in the Belly, as it were at the bottom, becauſe of the
+Coldneſs and Weight of the matter that forms it. The Mother at ſundry times has a Pale, Heavy,
+and Dusky Com<g ref="char:EOLhyphen"/>plexion, her Eyes not bright and ſparkling or Lively. She
+<pb n="18" facs="tcp:109751:10"/> is Froward, Fretful, and of<g ref="char:EOLhyphen"/>ten Pained in the Back and Shoulders. Her Left
+Breaſt bigger than the Right, the Milk thin and blewiſh, her Belly often flatting, and the
+Motion lieth on the Left ſide; and is ſeldom quick till the fourth Month: The Veins of her
+Thighs and Groin are bigger and knotti<g ref="char:EOLhyphen"/>er on the Left ſide than on the Right. To make a further
+Experiment, take an equal quantity of Claret, and the firſt Urin in the Morning, put them in a
+Urinal, and let them ſtand twelve hours, and if a groſs Cloud appear in the middle, it denotes
+a Girl, but if at the bottom, a Boy; if nothing, that ſhe is not with Child.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="19" facs="tcp:109751:10"/>
+               <head>
+                  <hi>CHAP. V</hi> To know whether a Woman ſhall have Two Children at a Birth.</head>
+               <p>THe Signs of having two Children at a Birth ſel<g ref="char:EOLhyphen"/>dom appear before the third or fourth Month,
+and then the Motions muſt be carefully obſerved, as alſo the Swelling of the Belly: For if
+the Moti<g ref="char:EOLhyphen"/>on be ſtrong and forcible on either Side at one Inſtant, it denotes two Children in
+the Womb. Likewiſe if the Belly appear more ſwollen and big<g ref="char:EOLhyphen"/>ger than in other Child-bear<g ref="char:EOLhyphen"/>ing,
+and the Sides riſe higher than the Middle of the Belly, ſo that there ſeems a kind of
+<pb n="20" facs="tcp:109751:11"/> a valley or Line of ſeparation from the Navel downwards; if the Burthen be
+born with difficulty, and the Belly often fall on the Thighs and Hips, there is no great doubt of
+giving Judgment as to the premiſes; and whether they be <hi>Boys,</hi> or <hi>Girls,</hi> or
+both, I refer you to conſider and compare the former obſer<g ref="char:EOLhyphen"/>vations.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="21" facs="tcp:109751:11"/>
+               <head>
+                  <hi>CHAP. VI.</hi> How a Woman, during her going with Child, ought to be Dieted; and what
+kind of Meats and Drinks are moſt proper and conducing to her Health and ſafe Delivery.</head>
+               <p>THIS much concerns childing Women to be careful in obſerving, if they would enjoy perfect
+Health, and bear ſtrong and health<g ref="char:EOLhyphen"/>ful Children; and in this I ſhall obſerve what things are
+particularly required, and what to be Avoided.</p>
+               <p>In the firſt place, let her Dwell in a good and tem<g ref="char:EOLhyphen"/>perate Air, neither too hot, cold, or
+wateriſh; not ſub<g ref="char:EOLhyphen"/>ject
+<pb n="22" facs="tcp:109751:12"/> to Foggs, Miſts, cold North-Winds, or to moiſt South ones. For
+<hi>Hippocrates</hi> is of the Opinion, That bad Airs, or Cold, or Moiſt Winds blowing
+ſtrongly, frequently cauſe Miſcarriage, eſpecially to thoſe of nice and tender Breeding,
+by af<g ref="char:EOLhyphen"/>flicting them with Rheums, Diſtillations, &amp; troubleſome Coughs. All ill Scents and
+Noiſome Vapours are ſubject to do the like, ſo that <hi>Ariſtotle</hi> forbids Women with
+Child to come within the ſmell of the Snuff of a Candle newly put out, leſt it cauſe
+Abortion, Miſcarriage, or untimely Labour.</p>
+               <p>
+                  <hi>Dyet</hi> muſt be ſo choſen as it may be ſeaſonable, and
+<pb n="23" facs="tcp:109751:12"/> properly nouriſhing on this occaſion, breeding good juice, and moderately
+drying, the Quantity ſufficient for more than her own proper Nou<g ref="char:EOLhyphen"/>riſhment at other times. Nor
+muſt ſhe give her ſelf to Faſting, eſpecially to any Conſiderable degree, for if the
+Child wants it's due Nouriſhment in the Womb, it will either not encreaſe to the purpoſe, or
+dwindle away when it is increaſed; and being Born, will become Weakly and ſubject to
+Diſ<g ref="char:EOLhyphen"/>eaſes.</p>
+               <p>Too great a Quantity is however to be avoided, for that many times ſtifles a Child through too
+much a<g ref="char:EOLhyphen"/>bundance of Nouriſhment,
+<pb n="24" facs="tcp:109751:13"/> or makes it ſo unweildy it cannot keep in its Place, and therefore is
+conſtrained to come forth before it's time, or grow Sickly in the Womb.</p>
+               <p>All Meats which are ei<g ref="char:EOLhyphen"/>their too Hot, too Cold, or too Moiſt, muſt be avoided, eſpecially
+in the beginning of Meals, Salt Meats, and thoſe heated with Spice, are hurt<g ref="char:EOLhyphen"/>ful.
+<hi>Ariſtotle</hi> forbids all man<g ref="char:EOLhyphen"/>ner of Baked Meats to Chil<g ref="char:EOLhyphen"/>ding Women. Her bread muſt be
+good Wheat well Kneaded and Baked; and the moſt agreeable Meats are Pullets, Chickens, Capons,
+Young Pidgeons, Pheaſants, Turtle Doves, Partridges, Larks, Veal, Mutton, and
+<pb n="25" facs="tcp:109751:13"/> Broth; with a mixture of Hot and Cooling Herbs. For Sallads, Lettuce, Endive,
+Borrage, Bugloſs, Sorrell, or in lieu of theſe, to cloſe the Stomach after Dinner, and
+temperate the Heat, cooling moderate Fruits, as preſer<g ref="char:EOLhyphen"/>ved Pears, baked Wardens, Quinces, or
+Marmalades, Da<g ref="char:EOLhyphen"/>miſons, Plumbs, Apricocks, Ripe Grapes, Goosberries, Currants, but of none of
+theſe too much, leaſt they Create Phlegmes, and they cauſe offenſive Coughing,
+<hi>&amp;c.</hi> And tho' I may here pre<g ref="char:EOLhyphen"/>ſcribe, notwithſtanding all, a Woman with Child has
+ſometimes ſuch a diſorderly Appetite, by reaſon of a full and ſharp Humour which is
+<pb n="26" facs="tcp:109751:14"/> contained within the Mem<g ref="char:EOLhyphen"/>branes of the Stomach, that many times they deſire
+things againſt Nature, as Couls, Chalk, Charcole, white-wall, &amp;c. that can be no manner of
+Nouriſhment, but certain<g ref="char:EOLhyphen"/>ly offenſive. Theſe, tho' un<g ref="char:EOLhyphen"/>ruly Appetite Crave, or make them, as
+they ſay, Long for them, yet be ruled by Reaſon. Let a Woman conſi<g ref="char:EOLhyphen"/>der ſhe is a Rational
+Crea<g ref="char:EOLhyphen"/>ture, and ought to be guided by Reaſon, and not run in<g ref="char:EOLhyphen"/>to Extravagancy to hurt her ſelf
+where that contradicts it. When any Impatient Long<g ref="char:EOLhyphen"/>ings happen for things that are hurtful, the
+Mind muſt by degrees be turned from that, to ſomething that is
+<pb n="27" facs="tcp:109751:14"/> more agreeable, and ſo by de<g ref="char:EOLhyphen"/>grees, they may wean them<g ref="char:EOLhyphen"/>ſelves from all
+Extrava<g ref="char:EOLhyphen"/>gancies.</p>
+               <p>As to Drinks, good nou<g ref="char:EOLhyphen"/>riſhing Wine, not too ſtrong, nor too much at a time, as Canary,
+Malago, Sher<g ref="char:EOLhyphen"/>ry, Claret; alſo Ale that is not Foul or Mudy, Beer not too Stale, Rasberry, Cherry,
+or Currant Wines, new Milk, but very little either of Whey, Cyder or Gooſeberry Wine, or any
+ſharp things, by reaſon they cauſe Gripings, and do much harm to Childing Women.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="28" facs="tcp:109751:15"/>
+               <head>
+                  <hi>CHAP. VII.</hi> Of Sleep, Exerciſe, Labour, and great Noiſes, as they tend to the
+Advantage or Preju<g ref="char:EOLhyphen"/>dice of Women with Child.</head>
+               <p>AS for <hi>Sleep,</hi> it muſt be Moderate, and in ſea<g ref="char:EOLhyphen"/>ſonable times in the Night, lying
+ſoft and eaſie, ſhifting ſides as often as ſhe wakes.</p>
+               <p>
+                  <hi>Exerciſe</hi> Moderately per<g ref="char:EOLhyphen"/>formed helps the Birth by Looſing the <hi>Cotiledons</hi>
+or veſſels of the Matrix, where<g ref="char:EOLhyphen"/>by the Infant acquires it's Nouriſhment; going a mo<g ref="char:EOLhyphen"/>derate
+Pace, or riding ſoft<g ref="char:EOLhyphen"/>ly is well, but Jolting in Coaches, Waggons, or on Horſe-back, is very
+much to
+<pb n="29" facs="tcp:109751:15"/> be avoided, by reaſon they frequently occaſion Abortion.</p>
+               <p>Too much <hi>Labour</hi> is hurt<g ref="char:EOLhyphen"/>full: Yet, as <hi>Ariſtotle</hi> ob<g ref="char:EOLhyphen"/>ſerves, moderate Labour
+con<g ref="char:EOLhyphen"/>tributes to a ſafe and eaſie Delivery, becauſe thereby thoſe Excrements are
+Con<g ref="char:EOLhyphen"/>ſumed, which Sloath and I<g ref="char:EOLhyphen"/>dleneſs would retain, or ra<g ref="char:EOLhyphen"/>ther Ingender. And to keep her Belly,
+ſoluble, which in this Caſe is required, ſhe may take ſome Broth wherein Pruins are boiled;
+ſtewed Apples &amp; Sugar, with a little Butter; Buglos, Bor<g ref="char:EOLhyphen"/>rage, Purſlain &amp; Lettuce, with
+a little of the herb <hi>Mercury</hi> ſhread into Veal Broth.</p>
+               <p>Great Noiſes are very hurtful, as ſound of Trum<g ref="char:EOLhyphen"/>pets,
+<pb n="30" facs="tcp:109751:16"/> Bells, beating of Drums, and ſhooting of Ar<g ref="char:EOLhyphen"/>tillery: Alſo Thunder, or the
+violent roaring of Wa<g ref="char:EOLhyphen"/>ter, for upon any Frights, or ſuddain Starts, a Woman may eaſily Looſe
+her Bur<g ref="char:EOLhyphen"/>then, eſpecially the firſt Month, for then the <hi>Embrio</hi> is not firmly faſtened
+and tyed to the Womb; and though in the ſucceeding Month it grows faſter and bigger, yet the
+weight may ſo preſs it on the Neck of the Womb, that it may come forth untimely.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="31" facs="tcp:109751:16"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> Of Purges to be Taken: And of the Paſſions of the Mind.</head>
+               <p>A Gentle Purge may be convenient, given on any occaſion that requires it, from the Fourth to
+the Seventh Month, but after that, it is neither Practicable, nor by many held ſafe. All things
+that violently pro<g ref="char:EOLhyphen"/>voke Urin, and conſequently will have an Influence in pro<g ref="char:EOLhyphen"/>voking the
+<hi>Courſes,</hi> are for<g ref="char:EOLhyphen"/>bidden. As alſo <hi>Phlebotomy</hi> or Blood Letting, unleſs ſome
+great Neceſſity require it; as, the Woman being ſo full of Blood, that it is fea<g ref="char:EOLhyphen"/>red it may
+ſtifle the Child
+<pb n="32" facs="tcp:109751:17"/> with the over great quan<g ref="char:EOLhyphen"/>tity; or in dangerous Diſ<g ref="char:EOLhyphen"/>eaſes, as the
+Pluriſie, <hi>&amp;c.</hi> For otherways, the Blood being taken away when the Child is grown, it
+cauſes a Leanneſs and decay of it for want of a due Nouriſhment, it requiring now much more
+than when it was very little.</p>
+               <p>The Paſſions of the Mind are, in this Caſe, to be con<g ref="char:EOLhyphen"/>ſidered, as either Good or
+Hurtful, therefore the Chil<g ref="char:EOLhyphen"/>ding Woman muſt prevail with herſelf, as much as poſſibly ſhe
+can, to be Plea<g ref="char:EOLhyphen"/>ſant and Merry, avoid<g ref="char:EOLhyphen"/>ding Melancholly, Muſing, Thought, or Vexing, Grie<g ref="char:EOLhyphen"/>ving,
+Freting, falling into a ſuddain Anger, Scolding or
+<pb n="33" facs="tcp:109751:17"/> Exclaming; neither ought ſhe to be too violently Tranſported with
+Laughing, Coughing, Sneezing; with ſuddain Joy at any ſurprizing News or Accident: Or, on the
+contrary, Fear; ſhe muſt therefore have a ſetled and quiet Mind, not ſubject to any
+Paſſions or Surprize that may be Injurious to what ſhe carries in her Womb. She muſt not
+give Ear to La<g ref="char:EOLhyphen"/>mentable Tales, ſad and frightful Stories, <hi>&amp;c.</hi> Nor ſee Fighting,
+Fencing, Bear-Baitings, Executions, or any Cruel and Unnatural Sights, Avoid the Company, as much
+as may be, of Defor<g ref="char:EOLhyphen"/>med Perſons, Antick Pi<g ref="char:EOLhyphen"/>ctures, <hi>&amp;c.</hi> Leaſt the Ima<g ref="char:EOLhyphen"/>gination
+<pb n="34" facs="tcp:109751:18"/> prove Strong, and make ſome Impreſſion or Si<g ref="char:EOLhyphen"/>militude on the
+<hi>Faetus</hi> or <hi>Embrio.</hi> And laſtly, as to theſe particulars, when a Woman perceives
+herſelf with Child, ſhe muſt let out her Lacing, and lay aſide her Busk, not only for her
+own eaſe, which is proper enough, but leaſt the Child being ſtraightened in the Womb, become
+Writhed, Crooked, or Mis-ſhapen.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="35" facs="tcp:109751:18"/>
+               <head>
+                  <hi>CHAP. IX.</hi> How to prevent Diſeaſes, and other Griefs, in a Childing Woman, by
+Oyles, Oynt<g ref="char:EOLhyphen"/>ments, Fomentations, and Internal Medicaments; with the ſeveral Receipts to make and
+apply them.</head>
+               <p>HAving layed down Rules how a Childing Wo<g ref="char:EOLhyphen"/>man, in ſundry reſpects, ought to mannage
+herſelf, I now come to other parti<g ref="char:EOLhyphen"/>culars of as near a concern, requiſite to be taken notice
+of, and done, in the Ninth Month, <hi>viz.</hi> To preſerve Health, Beauty, and give a ſafe and
+eaſie Delivery. In the firſt place then, that her
+<pb n="36" facs="tcp:109751:19"/> Breaſts after her Delivery may not be too much puffed up, and hang down like
+Bags; hang, during her Childing, a little piece of Steel between them, by a String, or Chain,
+faſtened about her Neck; and waſh them with this Decoction, or Fomentation, pretty warm and
+often.</p>
+               <p>Take Sage, Perriwinkle, the herb Ground Ivy, of each a handful; Hemlock as much as you can hold
+between your fore-finger and Thumb, bruiſe them, and boil them in two quarts of water and one of
+Whitewine, till a fourth part be conſumed; then put thereto a little Roſe Vinegar, and waſh
+your Breaſts.</p>
+               <p>
+                  <pb n="37" facs="tcp:109751:19"/>This prevents them from Soreneſs and breaking after Delivery; and from many
+other ill conveniencies. That the Belly, when the Child Quickens, may be kept in order, from
+Swelling or growing too Unweildy, a Swathe is requiſit, made fit for the purpoſe, to ſupport
+it, and to keep the Skin from Furrowing, growing Knot<g ref="char:EOLhyphen"/>tey, or full of broken Veins wrinkled, Anoint
+it with this <hi>Pomander.</hi>
+               </p>
+               <p>Take the Suet of a Young Kid, and Hog's-Lard, each three Ounces, Gooſe-Greaſe and the
+Greaſe of a Capon each an Ounce and a Half, melt them in an Earthen Veſſel, ſtrain them
+when
+<pb n="38" facs="tcp:109751:20"/> very hot into fair Water, and Temper them in it till they become very White,
+then melt them again, ad<g ref="char:EOLhyphen"/>ding an Ounce of Stags Mar<g ref="char:EOLhyphen"/>row or Suet, waſh them in Roſe-water, and
+Anoint the Belly warm with it.</p>
+               <p>Or take Oyl of Roſes an ounce and a half, Oyle of St. <hi>John's</hi> Wort and ſweet
+Al<g ref="char:EOLhyphen"/>monds each two ounces, May-butter and Oyl of Jeſſamin each half an ounce, Sperma Ceti a
+quarter of an ounce; melt theſe together, and take a ſoft waſh'd Leather Skin, ei<g ref="char:EOLhyphen"/>ther Dog or
+Sheep, made fit for the Belly, Anoint it with theſe Oyntment. This is u<g ref="char:EOLhyphen"/>ſually required to be
+begun in the Fourth Month. In the
+<pb n="39" facs="tcp:109751:20"/> Ninth Month, The Wo<g ref="char:EOLhyphen"/>man being Healthy, it is convenient that ſhe walk gently
+before Meals, for the firſt twelve or fifteen Days; and after that, under<g ref="char:EOLhyphen"/>take ſome moderate
+Buſi<g ref="char:EOLhyphen"/>neſs, or convenient Exer<g ref="char:EOLhyphen"/>ciſe; and if any Pains or Weakneſs happen, make the following
+Bath, <hi>viz.</hi>
+               </p>
+               <p>Take Marſhmallows with their Roots, and Mother<g ref="char:EOLhyphen"/>wort, each two handfuls, white Lilly Roots
+three oun<g ref="char:EOLhyphen"/>ces, Cammomile and Mel<g ref="char:EOLhyphen"/>lilot flowers each a handful, Linſeed, Quince-ſeed, and
+Fenigreek-ſeed, each an Ounce, Boil them in run<g ref="char:EOLhyphen"/>ing Water till a fifth part be conſumed, and
+let the
+<pb n="40" facs="tcp:109751:21"/> Party Pattle in it, and being well dryed, put into a warm Bed, her Belly,
+about an hour after, being ſupled with Oyl of Roſes, Cammomile, and ſweet Almonds.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="41" facs="tcp:109751:21"/>
+               <head>
+                  <hi>CHAP. X.</hi> Of unreaſonable Longings, Hicup, and Vomitings; their Cauſe, and
+Remedy: Alſo Pains in the Stomach, Belly, Flanks, <hi>&amp;c.</hi> Back, Hips and Groin;
+Difficulty of making <g ref="char:V">Ʋ</g>rin, Palpitation of the Heart, and Swoonings; Cough, Sore Throat;
+Co<g ref="char:EOLhyphen"/>ſtiveneſs and Laxativeneſs; Swellings in the Legs and Thighs, <hi>&amp;c.</hi>
+               </head>
+               <p>UNreaſonable Longings are allayed frequently by eating Olives or Capers, boiled Sallads, Meats
+that are Fat and Sweet, with Verjuce, Orange, Pomgra<g ref="char:EOLhyphen"/>net, Citron, or any ſharp
+<pb n="42" facs="tcp:109751:22"/> Juice in their Sauces. Some commend much Toaſted Cheeſe and dryed
+Amillium, and hot Spices in Meats or Drinks, but no great quan<g ref="char:EOLhyphen"/>tity, for then they are hurt<g ref="char:EOLhyphen"/>ful; as
+alſo is much Drink<g ref="char:EOLhyphen"/>ing. And for Drinks, a Glaſs of Wormwood-Wine, or Hidromel, is very good:
+And for this a gentle Purge may be given, of Senna or Rhuebard boiled in White<g ref="char:EOLhyphen"/>wine; about a
+quarter of a Pint being drunk warm Faſting.</p>
+               <p>The Hickup, and diſtaſte<g ref="char:EOLhyphen"/>fulneſs of Meats, are very Incident to Women with Child, and
+prove uneaſie to the Child, eſpecially by weakening the Mother, and
+<pb n="43" facs="tcp:109751:22"/> thereby it being deprived of ſufficient Nouriſhment, cauſing her either
+to be De<g ref="char:EOLhyphen"/>livered Untimely, or pro<g ref="char:EOLhyphen"/>duce a Weakly Child.</p>
+               <p>Take, to Prevent or Re<g ref="char:EOLhyphen"/>medy theſe, the Yolks of Eggs, Veal Broth, or Chick<g ref="char:EOLhyphen"/>en Broth, wherein
+Endive, Succory and Lettuce have been ſhred, with Beets and Winter-ſavory; Anointing the
+Stomach and Belly with Oyl of Sweet Almonds and Oyl of Violets. If the cauſe proceed from a
+ſharp bitter Humour, a gentle Purge is requiſit to carry it down<g ref="char:EOLhyphen"/>ward, that may occaſion no
+great Straining, and an hour after take Syrup of Violets an Ounce, in a quar<g ref="char:EOLhyphen"/>ter
+<pb n="74" facs="tcp:109751:23"/> of a Pint of warm new Milk.</p>
+               <p>Vomiting, is another de<g ref="char:EOLhyphen"/>fect, but muſt not however be too ſuddainly ſtopt, be<g ref="char:EOLhyphen"/>cauſe if
+it be not violent it doth ſome good, by avoid<g ref="char:EOLhyphen"/>ing the abundance of humour amaſſed together in
+the Sto<g ref="char:EOLhyphen"/>mach, which is indeed the cauſe of it, or elſe ſome ſharp and biting humour, that
+does ſtir and provoke it. But it happeneth oftentimes that this Vomiting is ſo vio<g ref="char:EOLhyphen"/>lent, that
+even the Suſte<g ref="char:EOLhyphen"/>nance that ſhould Nouriſh the Mother, and Child, can<g ref="char:EOLhyphen"/>not remain a convenient
+time for digeſtion, but is caſt up; and therefore to Re<g ref="char:EOLhyphen"/>medy this,</p>
+               <p>
+                  <pb n="45" facs="tcp:109751:23"/>Let the Perſon ſo af<g ref="char:EOLhyphen"/>flicted, ſee that ſhe uſe wholeſome Diets, eat
+Mo<g ref="char:EOLhyphen"/>derately, and by degrees, not much, nor over-haſtily. Take a gentle Purge, but in it neither
+<hi>Diagridium</hi> nor <hi>Colloquintida,</hi> but rather Rhue or Rhuebarb, infuſed in
+White-wine over a gentle fire: The compound Syrup of Cichory, with Syrup of Rhuebarb, which not
+only Evacuates but Strengthens; or the Syrup of Damask Roſes, with Manna diſſolved in it.
+Theſe are ſo harmleſs, that the Niceneſs of the Doſe need not be diſputed.</p>
+               <p>Pains in the Stomach, Flank, or Belly, often hap<g ref="char:EOLhyphen"/>pens to Childing Women,
+<pb n="46" facs="tcp:109751:24"/> and therefore let them know, theſe are in this caſe much occaſioned by
+Windineſs, the parts being Lax, or ſome<g ref="char:EOLhyphen"/>times the Wind is ſhut up in the Womb. To take a<g ref="char:EOLhyphen"/>way
+this cauſe therefore, the party muſt ſhun all manner of Moiſt and Windy Meats. Take a
+grentle purge if it be requiſite, and then apply this Fomentation, <hi>viz.</hi>
+               </p>
+               <p>Flowers of Cammomile and Featherfew, each two handfuls, Red-Roſes half a handful, Anniſeeds
+and Fen<g ref="char:EOLhyphen"/>nelſeeds, each two Drams, Lawrel-bark, and Bay-ber<g ref="char:EOLhyphen"/>rys, each a dram, Bruiſe theſe
+groſly, and Boil them in three Pints of Clarret, till a fourth part be Conſumed;
+<pb n="47" facs="tcp:109751:24"/> dip into the Liquor a Linnen Cloth, and Foment the parts grieved as hot as may
+be; and lay on the ſollid matter Poultis-wiſe; and let the Party chew Fennel, An<g ref="char:EOLhyphen"/>niſeeds, and
+eat firſt in a Morning a Toaſt ſoaked in Hypocras, or Drink a little Dram of the diſtilled
+Water of Citron or Limmon-Peels, infuſed in good Spirits.</p>
+               <p>Pains of the Back, Hips, and Groine, and difficulty of making Urin, are likewiſe incident to
+Childing Wo<g ref="char:EOLhyphen"/>men; and this happens ma<g ref="char:EOLhyphen"/>ny times according to the carrying the Child in the Belly,
+<hi>viz.</hi> High or low, more backward, forward, or ſidelings; and indeed the
+<pb n="48" facs="tcp:109751:25"/> carrying very low is the oc<g ref="char:EOLhyphen"/>caſion of moſt of theſe Pains, eſpecially
+in the Hips and Groine, they proceeding more from the heavyneſs of the Children, than from any
+humour; for the Womb then being great and thick, on which ſide ſoever it reſt<g ref="char:EOLhyphen"/>eth, it draws
+and ſtrains the Ligatures on the other Parts.</p>
+               <p>To prevent which, the Party muſt not be extraor<g ref="char:EOLhyphen"/>dinary ſtirring, eſpecially not Jolted,
+nor attempting to Jump; Eat but little at a time, though the oftener, and of ſuch Meats as are
+light and eaſie of Digeſtion, for the Stomach being over<g ref="char:EOLhyphen"/>preſſed by fulneſs, preſſes
+<pb n="49" facs="tcp:109751:25"/> the Matrix by ſtretching the Belly. In this Caſe Swathes Anointed with Oyl
+of Marſh-mallows and Cam<g ref="char:EOLhyphen"/>momile, are proper to ſhrink and keep up the Bel<g ref="char:EOLhyphen"/>ly, Anointing her
+Back with <hi>
+                     <g ref="char:V">Ʋ</g>nguentum Comitiſſae,</hi> or take Maſtick and Mirtle-Berrys, half an ounce
+each, Powder of Red Corral a dram, ſeal<g ref="char:EOLhyphen"/>ed Earth two drams; beat them unto fine Powder, then add
+three ounces of melted Bees-Wax and Oyl of Roſes, with Deers-Suet, as much as will make them up
+into a Plaiſter, and lay it to the Reins of the Back ſo that it may a little encline upon the
+Fla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks; and Bathe the Thighs and lower part
+<pb n="50" facs="tcp:109751:26"/> of the Belly, with the De<g ref="char:EOLhyphen"/>coction of Marſh-Mallows, Water-Creſſes,
+Pellitory of the Wall, Pimpernel, and bruiſed Linſeed, each a lit<g ref="char:EOLhyphen"/>tle handful, boild in a
+gallon of Water, to the Conſump<g ref="char:EOLhyphen"/>tion of a third part.</p>
+               <p>Palpitations of the Heart and <hi>Swoonings</hi> are to be con<g ref="char:EOLhyphen"/>ſidered in the next Place. The
+firſt of theſe being ex<g ref="char:EOLhyphen"/>traordinary, many times proceeds from Vapours ari<g ref="char:EOLhyphen"/>ſing from the Womb,
+and other parts nearer incloſed in the Arteries, and through them conveyed to the Heart, whoſe
+offenſiveneſs diſor<g ref="char:EOLhyphen"/>ders the pure Spirits, and cauſes thoſe Unnatural Pal<g ref="char:EOLhyphen"/>pitations; the
+Heart La<g ref="char:EOLhyphen"/>bouring
+<pb n="51" facs="tcp:109751:26"/> by motion to expel thoſe Vapours that make it Sicken, and occaſion many
+Evils if not timely prevented or removed. And this is to be perceived by laying your hand on the
+Womans Breaſt; for if it riſe ſtrongly, and the Ribs as it were are lifted up with it,
+keeping time to the Palpitation, then it pro<g ref="char:EOLhyphen"/>ceeds from Vapours.</p>
+               <p>To remove them, take a gentle Purge, and Bleed moderately; take ſuch Pow<g ref="char:EOLhyphen"/>ders, or Cordials, as
+fortifie the Heart, faſting in a Mor<g ref="char:EOLhyphen"/>ning, as <hi>Aqua Mirabilis,</hi> Dr. <hi>Stephens</hi>'s
+Water, Powder of Bezars-ſtone, and the Pow<g ref="char:EOLhyphen"/>der of the Bone of a Stags Heart mixed together, half
+<pb n="52" facs="tcp:109751:27"/> a dram at a time; and theſe will not only diſſipate the Vapours, but
+prevent <hi>Swoon<g ref="char:EOLhyphen"/>ings,</hi> Faintings, &amp; cold Sweats.</p>
+               <p>The Heart muſt likewiſe be outwardly Fortified, by laying a ſoft quilted Stoma<g ref="char:EOLhyphen"/>cher to the
+Stomach and Re<g ref="char:EOLhyphen"/>gion of the Heart; and lay a cooling Cataplaſme as Mal<g ref="char:EOLhyphen"/>lows, Grounſil,
+Cammo<g ref="char:EOLhyphen"/>mile and Orpin, beaten to<g ref="char:EOLhyphen"/>gether with Oyl of Roſes and the white of an Egg. Then for a
+Fomentation, let her uſe the Water of Bug<g ref="char:EOLhyphen"/>loſs, Burrage, Baum, Orange-flower, Roſes,
+<hi>Cardus Be<g ref="char:EOLhyphen"/>nedictus,</hi> and Scordium; in<g ref="char:EOLhyphen"/>fuſing in them Saunder, Co<g ref="char:EOLhyphen"/>riander, or Angellica
+ſeeds, or any Cordial Flowers.</p>
+               <p>
+                  <pb n="53" facs="tcp:109751:27"/>The Cough is a very troubleſome thing to Wo<g ref="char:EOLhyphen"/>men with Child, and very
+dangerous if it be violent, cauſing Pains in the Head, Flanks, Sides and Belly; Vomitings,
+Unreſt, and ma<g ref="char:EOLhyphen"/>ny other Miſeries; with fre<g ref="char:EOLhyphen"/>quent Miſcarriages and Abortions: And to keep from
+this Grievance, all Salt Meats, Spiced Meats, and all ſharp and biting things, eſpecially if
+the Cough be cauſed by Vapours, or diſtilla<g ref="char:EOLhyphen"/>tion of a thinn or ſerous Humour.</p>
+               <p>To Remedy this, boil a quart of Ale, that has well worked and ſetled, till a third part be
+conſumed; then fill it up again with
+<pb n="54" facs="tcp:109751:28"/> White-wine, and put into it four or five ſlices of Lico<g ref="char:EOLhyphen"/>rice, as many
+Blew-Figgs, a few Cammomile Flowers, Anniſeed and Coriander ſeeds, each a quarter of an ounce,
+let them ſeeth about a quarter of an hour, ſtrain and preſs out the Liquid part, and Drink a
+quarter of a pint three times a day very hot. And to make it more Pallatable, it may be ſweet<g ref="char:EOLhyphen"/>ned
+with white-Sugar Candy.</p>
+               <p>If the Throat be Sore or Swelled with it, take Oyl of ſweet Almonds an ounce, White-Sugar in
+Powder half an ounce, Roſe Water half an ounce, mingle theſe over a gentle Fire, with a quarter
+of an ounce of Allum diſolved in
+<pb n="55" facs="tcp:109751:28"/> the Roſe-water. Sleeping well, without any Medicines to enforce it, mainly
+con<g ref="char:EOLhyphen"/>tributes to the ſtaying the Defluxion of Rheums that occaſion the Cough. And after you have
+taken the for<g ref="char:EOLhyphen"/>mer, going to Bed, take of the Syrup of Jubebs and Vi<g ref="char:EOLhyphen"/>olets, each a quarter of an
+ounce, mixed with two drams of Diaſcordium.</p>
+               <p>
+                  <hi>Coſtiveneſs</hi> is another acci<g ref="char:EOLhyphen"/>dent afflicting Childing Wo<g ref="char:EOLhyphen"/>men, cauſing them to
+ſtrain themſelves, and put them<g ref="char:EOLhyphen"/>ſelves thereby in danger of Miſcarriage. To prevent, or
+Remedy this, a good Diet muſt be had, eating Meats that moiſten and keep the Bowels ſlippery
+and open.
+<pb n="56" facs="tcp:109751:29"/> But this muſt be done with Diſcretion, leaſt too much moiſture
+looſen the Ligatures of the Womb, and haſten the Delivery before it be convenient: And among
+o<g ref="char:EOLhyphen"/>ther Meats I recommend Veal, Necks of Mutton, Place, Flounders, Baked Ap<g ref="char:EOLhyphen"/>ples, Pruens, Salads of
+Let<g ref="char:EOLhyphen"/>tuce, Purſleaine, Endive, and all ſtrengthening Broths, without Spice or Saltneſs.
+Then</p>
+               <p>Take half an ounce of the Tops of Senne, bruize it with three Scruples of An<g ref="char:EOLhyphen"/>timony, infuſe
+them in half a Pint of Sherry over a gen<g ref="char:EOLhyphen"/>tle Fire; and Drink it hot.</p>
+               <p>Laxativeneſs immoderately, is as hurtful as the other; for it
+<pb n="57" facs="tcp:109751:29"/> puts the Woman very much in danger of Coming before her Time; and if it be not
+in time ſtayed, it is in like<g ref="char:EOLhyphen"/>ly-hood to turn to the Bloo<g ref="char:EOLhyphen"/>dy-Flux, and there it often proves
+fatal. To ſtay this,</p>
+               <p>Take Conſerve of Red-Ro<g ref="char:EOLunhyphen"/>ſes half an ounce, Baum and Mint tops Conſerved, each a quarter of
+an ounce, Syrup of Sloes an ounce; put theſe into a pint of Red-Wine, mingle them well over a
+gen<g ref="char:EOLhyphen"/>tle Fire, and drink it Morn<g ref="char:EOLhyphen"/>ing, Noon and Night, pretty hot: And for greater aſſure<g ref="char:EOLhyphen"/>ance,
+Adminiſter a moderate<g ref="char:EOLunhyphen"/>ly aſtringent Clyſter, <hi>viz.</hi> Of Plantain, Camomile, Mel<g ref="char:EOLhyphen"/>lilot,
+Borrage and Burglos Decocted in Whey or Skim-milk;
+<pb n="58" facs="tcp:109751:30"/> adding two ounces of the Oyl of Violets.</p>
+               <p>Swelling in the <hi>Thighs</hi> and <hi>Leg,</hi> are many times incident to Women with Child,
+eſpe<g ref="char:EOLhyphen"/>cially to thoſe that before were wont to have ſtrong Purgations; for the Blood being
+more than is required for Nouriſhment, alters and converts to Wateriſh or Dropſical Humours:
+But Women of Chollerick Con<g ref="char:EOLhyphen"/>ſtitutions are ſeldom ſubject to this, becauſe their great Heat
+dries up this Moiſture; and theſe accidents uſually happen the firſt four Months; yet if
+not removed, they many times remain to the Delivery.</p>
+               <p>A good wholeſome mo<g ref="char:EOLhyphen"/>derate
+<pb n="59" facs="tcp:109751:30"/> Diet in this caſe muſt be uſed, rubbing the parts af<g ref="char:EOLhyphen"/>flicted often with
+a warm Wollen-cloth, wrap them up hard and warm with Aſh Leaves, or Vine Leaves, ap<g ref="char:EOLhyphen"/>plyed next,
+Anointed with Oyl of Roſes, diſſolved Cam<g ref="char:EOLhyphen"/>phire, and the Juice of Sage, Marjorum, and Oyl of
+Roſemary.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="60" facs="tcp:109751:31"/>
+               <head>
+                  <hi>CHAP. XI.</hi> To prevent a Womans Coming before her Time, Signs of Abortion, or
+Miſcarriage: With proper Remedies a<g ref="char:EOLhyphen"/>gainſt them.</head>
+               <p>COming before the Time, is called a Shift, or Slip<g ref="char:EOLhyphen"/>ing away; and Abortion in many Caſes,
+though the Wo<g ref="char:EOLhyphen"/>men call it a Miſchance. The <hi>Slip</hi> is before the Womb can properly be
+ſaid to be ſhut, or it may be afterwards, till ſuch time the Child receives ſome manner of
+Form or Shape. <hi>Abortion</hi> is that which happeneth after Forty days, and ſometimes to the
+begin<g ref="char:EOLhyphen"/>ning of the Ninth Month,
+<pb n="61" facs="tcp:109751:31"/> it being a violent Expulſion, or Exculſion of the Child Formed and
+poſſeſſed with Life, before the time Na<g ref="char:EOLhyphen"/>ture has prefixed.</p>
+               <p>This happens ſundry ways, by Accidents, as A<g ref="char:EOLhyphen"/>gues, Frights, Flux of the Blood or Belly,
+Vomitings, violent Sickneſs, over Stir<g ref="char:EOLhyphen"/>ing, or the like. Alſo from exceſs of Venery,
+Paſſions of the Mind, Choller, Sadneſs, exceſſive Longings, or ſtrong Potions or
+Purges; or from the Weakneſs of the Child, wanting Nouriſhment, and ſometimes from its being
+too Big and Unweildy, ſo that the Womb can no longer contain it, whoſe ſtrugling cauſes the
+Womb
+<pb n="62" facs="tcp:109751:32"/> to Relax, and Dilate it ſelf, and ſo it forces it's Way: Sometimes from
+Leanneſs, and at other times from too much Fulneſs or Fatneſs, a Medium being the beſt for
+Women in Child-bearing.</p>
+               <p>Signs of <hi>Abortion,</hi> viz. When the Milk flows abun<g ref="char:EOLhyphen"/>dantly in the Breaſts, and comes
+much out without any Compreſſion; yet they re<g ref="char:EOLhyphen"/>main Soft and Limber; if there be a bad Colour on
+the Nipple, as Blew, Yellow, Duskey, <hi>&amp;c.</hi> When Water, then Blood and Slimy mat<g ref="char:EOLhyphen"/>ter; and
+laſtly, Blood flows from Natures Secrets.</p>
+               <p>To Remedy theſe, there muſt be a reſpect had to the Cauſes; in Sickneſs of timely
+<pb n="63" facs="tcp:109751:32"/> care muſt be taken for ſu<g ref="char:EOLhyphen"/>table Remedies; all exceſs of Labour or
+Excerciſe muſt be avoided, and wholeſome Diet taken, with ſome gentle Purges; and, if
+occaſion re<g ref="char:EOLhyphen"/>quire it, eſpecially in thoſe that are Sanguine, a mode<g ref="char:EOLhyphen"/>rate Bleeding; for too
+much Blood, or too much Nou<g ref="char:EOLhyphen"/>riſhment is mainly Prejudi<g ref="char:EOLhyphen"/>cial, as well as too little. The Mother
+muſt be of as Merry a Temper as ſhe can; nay ſeek for occaſions to Divert, avoiding
+occaſions of Grief, Fretting, or Pining, eſpecially near the time of her Delivery; Let her keep
+her Chamber, if not her Bed, uſing Nouriſhing Meats eaſie of Digeſtion; and drinking
+<pb n="64" facs="tcp:109751:33"/> Cordials or ſtrengthening Liquors. Take Syrup of Borrage, Burdocks, and
+Ro<g ref="char:EOLhyphen"/>ſes in Red-Wine warm. The The Syrup of Citron and Mirabolans in Milk, ſweet<g ref="char:EOLhyphen"/>ned with
+Sugar-Candy. The diſtilled Water of Comfery, Sage, or Clary. And Anoint the Belly with Oyl of
+Dill, Lavender, and ſome drops of Oyl of Cloves, Binding or Swathing it moderately. Oyl of Mirtle
+and Maſtick is very good, where the Party is of a Cold or Phleg<g ref="char:EOLhyphen"/>matick Complexion or
+Conſtitution.</p>
+               <p>A <hi>Sear-cloth</hi> of Oxcycro<g ref="char:EOLhyphen"/>tium Diaculum; ſprinkled over with a little Mirrh and Nutmeg
+finely Powdered, is
+<pb n="65" facs="tcp:109751:33"/> a great Strengthener for the Back and Flanks; helps the Womb to retain the
+In<g ref="char:EOLhyphen"/>fant; and prevents untime<g ref="char:EOLhyphen"/>ly Birth.</p>
+               <p>Thus having proceeded all along, by ſuch eaſie Me<g ref="char:EOLhyphen"/>thods as brings a Woman to the true time
+of her Delive<g ref="char:EOLhyphen"/>ry, I ſhall now Treat of what is requiſit in that Na<g ref="char:EOLhyphen"/>ture.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="66" facs="tcp:109751:34"/>
+               <head>
+                  <hi>CHAP. XII.</hi> How a Woman is to be Order<g ref="char:EOLhyphen"/>ed when ſhe comes to her Delivery; and to
+know when it is Labour or not.</head>
+               <p>THE Time of Delivery haſtening, no delay muſt be made for ſuch things as are convenient. A
+Midwife ought to be attenting, ſome<g ref="char:EOLhyphen"/>time of waiting is required before ſhe can perform her
+Office, there being many things to be done in order to cauſe an eaſie, and ſafe Delivery. The
+Woman muſt be kept waking; for too much Sleep or Drouſineſs, to which they are prone,
+cauſes Nature to be leſs
+<pb n="67" facs="tcp:109751:34"/> Active: And this may be done, if ſhe be not weak, by walking up and down her
+Chamber, and lying down by turns to reſt. There being a good Fire, and all things ne<g ref="char:EOLhyphen"/>ceſſary
+to prevent her catch<g ref="char:EOLhyphen"/>ing Cold, and to Fortifie her to undergo the Travel: Yet not ſo much but
+that ſhe may Sleep moderatly, to eaſe the tirements of Nature; and waking, take ſome
+re<g ref="char:EOLhyphen"/>freſhing Cordials, and ſtreng<g ref="char:EOLhyphen"/>thening Broths.</p>
+               <p>The time of Delivery be<g ref="char:EOLhyphen"/>ing come, which is known by theſe Signs, <hi>viz.</hi> The Midwife
+muſt conſider whe<g ref="char:EOLhyphen"/>ther the upper part of the Belly ſeem as it were Empty, and the lower very
+Big and
+<pb n="68" facs="tcp:109751:35"/> full ſtretched. Enquire of the Childing Woman how ſhe ſtands affected as
+to Pains; and in what manner they come and go, whether Little, or Great, or Frequent: Whether they
+begin at the Back, and proceed to run down the Belly, not ſtaying at the Navel, but paſs to the
+Groin, and end in the bot<g ref="char:EOLhyphen"/>tom of the Belly inwardly or the inner Neck of the Womb; and from theſe
+ſhe may gather how near a Woman is to her Delivery; for they are Signs of her ſpeedy falling in
+Travel, e<g ref="char:EOLhyphen"/>ſpecially upon the dilating the outward and inward Orifice. If the Water de<g ref="char:EOLhyphen"/>ſcends,
+or there be any Flow<g ref="char:EOLhyphen"/>ings,
+<pb n="69" facs="tcp:109751:35"/> then the Midwife muſt place herſelf conveni<g ref="char:EOLhyphen"/>ently near the Woman; and
+proceed in her Office, in which (for Manners ſake) I ſhall not give here Directi<g ref="char:EOLhyphen"/>ons, as
+knowing there are many Judicious Midwives who need them not, my Main Scope being rather to direct
+the order of a Wo<g ref="char:EOLhyphen"/>man in Child-bed for her own ſafety and that of her Child.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="70" facs="tcp:109751:36"/>
+               <head>
+                  <hi>CHAP. XIII.</hi> Of Natural and Difficult Births: And how the Child ought to be Ordered
+when drawn forth: With Receipts for many Cordials; and Directions for other things, uſeful on
+this Imergency.</head>
+               <p>IF there be a Natural Birth, That is the Child coming with it's Head forward, the Arms on the
+Side, and the Throws encreaſing, there is little Difficulty or Danger: Yet ſhe muſt have
+great Courage herſelf, and En<g ref="char:EOLhyphen"/>courage the Woman, giving her Wine wherein Saffron has been
+infuſed, or ſuch things as Comfort the Heart,
+<pb n="71" facs="tcp:109751:36"/> as occaſion requires, yet in little Quantity. Nothing muſt be done in
+Delivery haſtily or raſhly, but Na<g ref="char:EOLhyphen"/>ture muſt have its courſe in a good meaſure, it being
+the greateſt helper in theſe Caſes. And becauſe the Child doth come Naturally in<g ref="char:EOLhyphen"/>to the
+World with the Face downward, when it is taken forth it muſt be turned on its Back, to prevent
+Suffocation, or drawing the Air too heavi<g ref="char:EOLhyphen"/>ly. And if the Navel-ſtring, as often happens, be
+twiſted about its Neck, let her take it off gently.</p>
+               <p>If it be feeble or faint, that it ſcarce can Breathe, ſpurt a little Canary into the Mouth
+of it, which, by its
+<pb n="72" facs="tcp:109751:37"/> ſtriving will open the Pipes. She may do the like into the Noſe or Ears,
+but very gent<g ref="char:EOLhyphen"/>ly, and but a very ſmall quantity. When it begins to Cry, draw the Navel<g ref="char:EOLhyphen"/>ſtring
+gently, that the Af<g ref="char:EOLhyphen"/>ter-Birth may follow in its due time, the Woman Coughing or Straining a
+lit<g ref="char:EOLhyphen"/>tle, and holding Salt in her Hand faſt graſped, recollect her Breath, and blowing hard, the
+Midwife, or her Aſſiſtant, ſtroaking her Belly down gently. And the Child be<g ref="char:EOLhyphen"/>ing
+ſeparated, to prevent Fits, give it a little Spoon<g ref="char:EOLhyphen"/>ful of Black-Cherry-Water, with two or three
+drops of the Blood that proceeds from the Navel-ſtring when
+<pb n="73" facs="tcp:109751:37"/> cut, which muſt be done a<g ref="char:EOLhyphen"/>bout two handful from the Belly, eſpecially of a
+Boy, making a Knot before the Inciſion. Then dip Linnen cloaths in a warm Bath of Roſe-Leaves,
+Penny royal, or any Comfortable Herbs or Flowers, wrap it up warm, and keep it near a Fire, but not
+in a place where a free Air cannot come to it, be<g ref="char:EOLhyphen"/>cauſe the Lungs at firſt are weak and cannot
+draw ſtrongly. Cover the Head however with a thin Linnen Cloath, and let it not come too near a
+great Light ſud<g ref="char:EOLhyphen"/>dainly, for fear of hurting and weakening the Sight. Then Swathe it gently, and
+give it ſome little Food, or
+<pb n="74" facs="tcp:109751:38"/> let it Suck ſome Woman whoſe Milk is of the ſame Sex, but not the
+Mother, be<g ref="char:EOLhyphen"/>cauſe her's is not as yet pro<g ref="char:EOLhyphen"/>per for it, for many Reaſons which I willingly
+omit.</p>
+               <p>The Woman being thus ſafely Delivered, her Legs muſt be layed gently ſtraight, and a fine
+Linnen Cloath or Rapper diped in warm Wa<g ref="char:EOLhyphen"/>ter and applyed, all cold Airs excluded. And after ſome
+Refreſhment, ſhe may Slumber a little to recover Natures ſtrength. Then take Candle, Panada,
+Wa<g ref="char:EOLhyphen"/>ter-Gruel, or what is moſt agreeable to ſtretch out the Bowells, fill in ſome mea<g ref="char:EOLhyphen"/>ſure
+the Vacancy, and pre<g ref="char:EOLhyphen"/>vent Windyneſs, which is
+<pb n="75" facs="tcp:109751:38"/> very offenſive to Women new Delivered. And if ſhe find herſelf Faint,
+and Un<g ref="char:EOLhyphen"/>eaſie, let her take the follow<g ref="char:EOLhyphen"/>ing Cordial Drink.</p>
+               <p>Take the Syrup of Maid-hair one ounce, Pellitory Water, Cardus Water, each half an ounce,
+mingled in a quarter of a Pint of warm White-Wine. And Anoint the parts with Oyl of Al<g ref="char:EOLhyphen"/>monds drawn
+without Fire.</p>
+               <p>As for the Child, when it has well Breathed, and taken ſome refreſhing Nouriſh<g ref="char:EOLhyphen"/>ment, give
+it three ſcruples of Mithridate or Venice Treacle in a Spoonful of White-Wine, or any pro<g ref="char:EOLhyphen"/>per
+Cordial Water.</p>
+               <p>If the Woman be weak in
+<pb n="76" facs="tcp:109751:39"/> her Parts, and Pains continue in her Back, Flanks, or Groin, take a Sheepskin
+that is newly pulled off, clap the Fleſhy ſide about her, and wrap her up warm in it, and and
+it will wonderfully ſtrengthen her, if it be re<g ref="char:EOLhyphen"/>peated every two days. Or for want of this, lay a
+Hares Skin or Rabits Skin taken off warm on her Belly. But in my Opinion, the former is a great
+deal better. And to Lenify the diſtended parts,</p>
+               <p>Take Oyle of Hyperion and St. <hi>John</hi>'s-wort, each an ounce, an ounce of the Oyl of
+Roſes, and two whites of Eggs finely beaten together, and apply it as a Lineament and
+Peſſary. Then let her
+<pb n="77" facs="tcp:109751:39"/> gently raiſe up her Thighs, that her Knees may lie up to eaſe her Back.
+When the Skin is taken off, chafe her with Oyl of Roſes, Almonds and St. <hi>John</hi>'s-wort.
+Swathe her with ſoft Linnen three or four times doubled; and beware ſhe takes not Cold,
+ſuppling het Breaſts, if given to Chaping, Hardneſs, or ſubject to Knots, Tumours, or the
+like, with Oyl of O<g ref="char:EOLhyphen"/>lives and Sweet Almonds. And above all things keep the Chamber cloſe and
+warm, that ſhe take not cold in any part; for the parts diſtend<g ref="char:EOLhyphen"/>ed by the force of Travel, will
+eaſily contract Cold Airs: And when ſhe is de<g ref="char:EOLhyphen"/>ſirous of Sleep, before ſhe
+<pb n="78" facs="tcp:109751:40"/> goes to it, let her take a refreſhment of ſome ſtreng<g ref="char:EOLhyphen"/>thening Broths,
+made of Veal, Chickens, or if ſhe be more deſirous of it, a couple of Poached Eggs.</p>
+               <p>Difficult Deliveries require ſomething more than what I have mentioned; and the Midwife muſt
+be yet more Careful herein, becauſe not only her Reputation, but the Life of her Patient is
+mainly concerned in it. There are many Births that require great Skill and Labour to bring them
+forth, becauſe they come Prepoſterouſly, or contrary to the Natural one; as lying ſide-ways
+in the Womb, coming Stradling with the Feet forward, or
+<pb n="79" facs="tcp:109751:40"/> the Arms ſpread over the Head, the Buttocks forward, or the like; and
+theſe muſt, by the Midwifes Skill, be reduced to their proper form if it may be, and ſo drawn
+forth, before the Woman be too far ſpent, the Vital Spi<g ref="char:EOLhyphen"/>rits waſted, or Nature enfee<g ref="char:EOLhyphen"/>bled: And
+if a Midwifes ſtrength or Skill prevail not, a Skillful Chirurgion muſt be ſent for before it
+is too Late. Some Midwives fancying in doing this their Reputations would ſuffer, have kept their
+Patients in Pain and Hope, till at laſt finding themſelves Conſtrained to ſend, when the
+Caſe was deſperate, they have been obliged to part with Woman, or Child, or both, to the
+Grave.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="80" facs="tcp:109751:41"/>
+               <head>
+                  <hi>CHAP. XIV.</hi> What ought to be done if a Wo<g ref="char:EOLhyphen"/>man come before or after her Time; and to
+bring away dead Children. Alſo to ſtay the Flux, and Remedy divers other Accidents happening to
+thoſe newly Delivered.</head>
+               <p>TRavel may likewiſe prove Painful or Difficult when the Woman is Delivered Be<g ref="char:EOLhyphen"/>fore or After
+her Time. The Firſt of theſe is, when it comes in Six, Seven, or Eight Months, which hap<g ref="char:EOLhyphen"/>pens
+when the Womb is too Weak, or Moiſt, which ſof<g ref="char:EOLhyphen"/>tens the Neck of it, and makes it dilate and
+Emit the Child before the due courſe
+<pb n="81" facs="tcp:109751:41"/> of Natures Expired. As alſo the Veſſels to the Orifice, whereof the
+After-Burthen is faſtened, begin to Relax, by which means the Infant cannot be ſupported, or
+re<g ref="char:EOLhyphen"/>main in it's Natural Situa<g ref="char:EOLhyphen"/>tion.</p>
+               <p>This Pain and Trouble<g ref="char:EOLhyphen"/>ſome times happens when the Child grows ſo bigg, that it ſtretches,
+or Extends the Womb in every part, by a great encreaſe, or over<g ref="char:EOLhyphen"/>ſtaying the time, ſome times
+in the Tenth or Eleventh Month: For the Matrix and Muſcles of the upper Belly being extended
+beyond mea<g ref="char:EOLhyphen"/>ſure, do inlarge the Fibers, which cannot be Eaſily drawn together again, having
+loſt
+<pb n="82" facs="tcp:109751:42"/> their Natural Strength and force.</p>
+               <p>To help this defect, the cauſe being rightly under<g ref="char:EOLhyphen"/>ſtood, ſuch Medicines muſt be uſed
+as are proper to Mol<g ref="char:EOLhyphen"/>lifie and Strengthen the parts, eſpecially the Mem<g ref="char:EOLhyphen"/>branes, that they may
+fur<g ref="char:EOLhyphen"/>ther dilate and ſtretch them<g ref="char:EOLhyphen"/>ſelves, by being made more ſupple and Gentle. Anoint<g ref="char:EOLhyphen"/>ing the
+Cartilages that Joyn the <hi>Os Pubis Sacrum Cocey<g ref="char:EOLhyphen"/>gis,</hi> and <hi>Ilium</hi> at the time of
+Delivery. And let the Woman take of Pellitory-Water two ounces, Oyl of Sweet-Almonds one ounce,
+well mingled together, and pretty warm; and after this, ſome ſtrengthening Cordi<g ref="char:EOLhyphen"/>als:
+<pb n="83" facs="tcp:109751:42"/> And this likewiſe much avails where there is any Caloſity, or hardneſs
+in the paſſage of Nature.</p>
+               <p>There are alſo other Ac<g ref="char:EOLhyphen"/>cidents which muſt be pro<g ref="char:EOLhyphen"/>vided againſt, as the Flux of Blood and
+Convulſions in time of Labour. Theſe are very dangerous to the Mo<g ref="char:EOLhyphen"/>ther and Child, and often
+de<g ref="char:EOLhyphen"/>ſtroy both, eſpecially the for<g ref="char:EOLhyphen"/>mer, if of long continuance: Becauſe the Blood being the
+treaſure of the Life, the Spirits and Heart are carried away with it. And again, the
+Convulſions hurt the Brain, that it cannot Com<g ref="char:EOLhyphen"/>municate ſo much Spirit as is needful in this
+imergency, for the Reſpiration of the
+<pb n="84" facs="tcp:109751:43"/> Mother, and the Child, who Breathes only by the means of the Spirits that are
+Im<g ref="char:EOLhyphen"/>parted by the Arteries of the Mother, for want of which it is many times ſuffo<g ref="char:EOLhyphen"/>cated. And
+theſe happen ſingle, or both together. Make what haſte you can to Deliver the Woman, after
+having fortified her with ſtrengthening Cordials, which cannot however be conveniently done but
+by a Skilful Midwife of Courage and able Body, or Chirurgi<g ref="char:EOLhyphen"/>on. For if it be not ſoon done, the
+Child will be brought forth Dead, or if Alive, hardly it lives long after. But it muſt in this
+Caſe be conſidered, whether
+<pb n="85" facs="tcp:109751:43"/> the Woman be at her full Time, and a neceſſity of De<g ref="char:EOLhyphen"/>livery requires it;
+for ſome have Fluxes of Blood at four or five Months, and then it is not practicable, but rather
+to divert it by breaking a Vein, or uſing ſuch Medicines that may turn the courſe of it. But
+at the full time, though ſome are of Opinion to let Blood, in ſuch Caſes is requiſit, yet
+what I pro<g ref="char:EOLhyphen"/>poſe always proves much more effectual, the Woman being happily Delivered, of either
+the one Birth or the other, there yet remains a great deal more to be Con<g ref="char:EOLhyphen"/>ſidered, in order to
+reſtore her to an Upriſing.</p>
+               <p>Dyet, in this Caſe, muſt
+<pb n="86" facs="tcp:109751:44"/> be prepared that may be ſui<g ref="char:EOLhyphen"/>table to the Weakneſs of the Womans
+Conſtitution: For ſoon after Labour, the Sto<g ref="char:EOLhyphen"/>mach cannot ſuffer, or at leaſt well Digeſt
+ſtrong Meats; and many that unadviſedly Eat ſuch, fall into Feavours; and from them to the
+Grave. Broths, Panada's, Jellys, Poached Eggs, and Gruels, are the moſt proper for the firſt
+four or five days. Then Barly-broth; and ſo to ſtronger things by degrees, as Gellys, Chickens,
+or ſmall Birds. And take a Drink between whiles, <hi>viz. French</hi> Barly, Corianderſeeds,
+and Cinamon boiled in ſpring Water, ſtraind and Sweet<g ref="char:EOLhyphen"/>ned with Sugar. And for a
+<pb n="87" facs="tcp:109751:44"/> Strengthening Liquor, or Cordials,</p>
+               <p>Take a Capon, parboile it, then cut it in pieces; and take of Baum, Borrage and Bugloſs, each
+a Handful: Put them with the Fleſh of the Fowl into a Glaſs-Alimbec; ſprinkle them over with
+a dram of the Powder of Pearl, and break in ſmall pieces two or three Leaves of Gold, then pour
+in ſome of the Water the Capon was ſodden in; Diſtil theſe in a double Glaſs, or
+<hi>Balneo Mariae,</hi> till there Iſſues a quart of diſtilled Water; and let the Woman take
+an ounce of it twice or thrice a day. This ſtrengthens the Heart and Brain, prevents fainting,
+cold
+<pb n="88" facs="tcp:109751:45"/> Sweats; and much fortifies Nature. If ſhe be not Agu<g ref="char:EOLhyphen"/>iſh or Feaveriſh
+ſhe may Drink a little White-wine, or Clarret, wherein Borrage and Limon-Peel have been
+infuſed, mixing with them ſome Syrup of Maiden-hair, or other Aſtringent Syrups. At eight
+days end, the Womb being well Purged and Clean<g ref="char:EOLhyphen"/>ſed, ſhe may take ſtronger Meats: But muſt
+be kept quiet from great Noiſes, and cloſe from too free an Air, avoiding all Sadneſs and
+Grief that may afflict or de<g ref="char:EOLhyphen"/>preſs the Spirits.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="89" facs="tcp:109751:45"/>
+               <head>
+                  <hi>CHAP. XV.</hi> How her Belly, <hi>&amp;c.</hi> muſt be Ordered after Delivery: And what
+Phyſick and Cor<g ref="char:EOLhyphen"/>dials are proper, from her Lying down to her <g ref="char:V">Ʋ</g>priſing. Which many other
+things needful to be known and Practiced.</head>
+               <p>CAre alſo muſt be taken of her <hi>Breaſts</hi> and <hi>Belly,</hi> for the firſt,
+anoint them with Oyl of Cammomile, and Mirtle, and Roſes, well mix<g ref="char:EOLhyphen"/>ed together: Swathe, or bind
+them up gently; and beſide a ſtrengthening Sear-cloath layed to the Back, ap<g ref="char:EOLhyphen"/>ply to the Navel,
+a Plaiſter of Galbanum two or three
+<pb n="90" facs="tcp:109751:46"/> fingers broad. And to keep the Milk from Curdling, a<g ref="char:EOLhyphen"/>noint the Stomach and
+Breaſts with Oyl of Roſes and Populeum.</p>
+               <p>A Bath upon this account is very convenient to ſtreng<g ref="char:EOLhyphen"/>then the Delivered Woman, which you may
+make by boiling Mother-wort, Penny-Royal, Agrimony, Roſe Leaves, Cammomile, Mal<g ref="char:EOLhyphen"/>lows, and flowers
+of Mellilot, in three parts Water and one of White-wine, in which ſhe may Bath herſelf all
+over, or the Liquor warm applyed with Linnen Cloaths to her Body; and before, ſhe may take
+conſerve of Roſes, Bug<g ref="char:EOLhyphen"/>loſs, and Candyed Citron Peel, finly bruiſed and mix<g ref="char:EOLhyphen"/>ed
+<pb n="91" facs="tcp:109751:46"/> in a Glaſs of Wine.</p>
+               <p>Griping Pains are many times troubleſome to Wo<g ref="char:EOLhyphen"/>men after Delivery. To Remedy this, let her
+take an ounce of the Oyl of Wal<g ref="char:EOLhyphen"/>nuts, and half an ounce of Sweet Almonds drawn with<g ref="char:EOLhyphen"/>out fire, in
+warm Ale or Wine. And foment the Sto<g ref="char:EOLhyphen"/>mach, Belly, and lower parts, with the Decoction of
+Cam<g ref="char:EOLhyphen"/>momile, Marſh-mallows, Melilot, Pelitory, Linſeed, and Mugwort boiled in Milk, and apply
+the Herbs warm Poultis-wiſe.</p>
+               <p>If the Matrix fall down, Bath and Foment the Parts with the Decoction of Red-Roſes, Cammomile
+and Lavender boiled in Milk;
+<pb n="92" facs="tcp:109751:47"/> put it up gently, followed by a Peſſary dipt in Red Wine, wherein
+Plantain, white Muller, and red Roſes have been concocted.</p>
+               <p>If Hurts, or Excoriations happen in the lower parts by Child bearing, take Oyl of St.
+<hi>John</hi>'s-wort and Oyl of Roſes, beat them up with the White of an Egg, and apply a
+Linnen-cloath diped in this mixture, to the af<g ref="char:EOLhyphen"/>flicted part; and lay a ſtrengthening Plaiſter
+of Mirrh, Maſtick, and white Bees-wax to the lower Re<g ref="char:EOLhyphen"/>gion of the Belly.</p>
+               <p>If the after Purgings come not away kindly, or in over abundance, they muſt be helped or
+Reſtrained; and
+<pb n="93" facs="tcp:109751:47"/> by theſe a Womans Health or Sickneſs is gueſſed at, during the time of
+her Lying-in. For if they be of the Natural Colour, and ſoon congeal, it is in a ſign ſhe is
+in good Health, and will continue ſo to her Upriſing. But being little in quantity, I'll
+colou<g ref="char:EOLhyphen"/>red, and do not congeal ſud<g ref="char:EOLhyphen"/>dainly, then Nature is out of order, and proper Remedies muſt
+be given to prevent or remove Sickneſs. If the Purgings be exceſſive, then moderate letting
+Blood is held neceſſary; and taking ſuch aſtringents as may in ſome degrees reſtrain
+them; for there is no means that makes better revulſions, and draws the Blood ſooner from
+<pb n="94" facs="tcp:109751:48"/> the place to which it flow<g ref="char:EOLhyphen"/>eth, than the opening of a Vein. And at the ſame
+time apply the following Cata<g ref="char:EOLhyphen"/>plaſme to the lower parts of the Belly, <hi>viz.</hi> Bole
+Arme<g ref="char:EOLhyphen"/>nick and Dragons Blood, each an ounce, Gum Traga<g ref="char:EOLhyphen"/>canth half an ounce, Mirtle Berrys and dryed
+Roſe Leaves beaten to Powder, each a dram; the Juice of Plantaine an ounce, make them into the
+thinneſs of a Plaiſter with <hi>
+                     <g ref="char:V">Ʋ</g>nguetum Co<g ref="char:EOLhyphen"/>mitiſſae.</hi>
+               </p>
+               <p>To make the Purges come freely, boil a little Senna in White-Wine with a blade or two of Mace,
+Roſemary Flowers, or Tops, and a lit<g ref="char:EOLhyphen"/>tle ſlice of Rhuebarb; drink
+<pb n="95" facs="tcp:109751:48"/> the Liquid part twice a day, two ſpoonfuls at a time, and apply to the Navel
+a Poltis of Featherfew, Groundſil and Melilot; drinking ever and anon a Glaſs of old Mal<g ref="char:EOLhyphen"/>lago
+wherein blew Currans have been boiled with ſome ſlices of Licorice. Eating ſuch things as are
+Moiſtening and opening, to dilate the Orifices of the Veins, which are much ſtoped by the long
+reſtraint of their wonted Flowings. Sometimes the ſtayings proceed from ſud<g ref="char:EOLhyphen"/>dain Griefs, or
+Anger, or other Paſſions of the Mind, which muſt be avoided, be<g ref="char:EOLhyphen"/>cauſe they thicken and
+Viti<g ref="char:EOLhyphen"/>ate the Blood.</p>
+               <p>Taken then Succory, Bur<g ref="char:EOLhyphen"/>net,
+<pb n="96" facs="tcp:109751:49"/> Endive, Agrimony, Vio<g ref="char:EOLhyphen"/>let-Flowers, boil them in Sweet-Wine, and let the Woman
+drink a little Glaſs of it warm, with the Syrup of Maiden-hair diſſolved in it: and uſe a
+warm Fomen<g ref="char:EOLhyphen"/>tation of opening Herbs, as Cammomile, Mlliot, Parſly; let her Eat Green Peas,
+Aſ<g ref="char:EOLhyphen"/>paragus, <hi>&amp;c.</hi>
+               </p>
+               <p>To bring away a falſe Conception after Delivery, <hi>viz.</hi> If it be large and came not
+away with the uſual Purgings, it may be thought to ſtick to the ſide of the Womb, and in
+danger of turning into a Mole, which will prove yet more trouble<g ref="char:EOLhyphen"/>ſome and painful. To bring them
+away, Firſt ſhe muſt
+<pb n="97" facs="tcp:109751:49"/> uſe reſolving Baths, to looſen and moiſten the whole Bo<g ref="char:EOLhyphen"/>dy, that the
+Matrix may be enlarged, and the paſſage di<g ref="char:EOLhyphen"/>lated. Secondly, Cliſters of cooling and ſupling
+Herbs. Thirdly, Gentle Purges, to cauſe the excrements to a<g ref="char:EOLhyphen"/>void; as alſo to renew the Natural
+Courſes. Fourthly, By Injections, which may provoke and ſtir up the Ex<g ref="char:EOLhyphen"/>pulſive Faculties of
+the Womb, and with them move and bring away the Falſe Conception.</p>
+               <p>If the Neck or Sides of the Womb be Glutinated, or Joyned together, the Woman muſt be Purged
+and let Blood, yet moderately; as alſo Bathe are ſucces<g ref="char:EOLhyphen"/>ful,
+<pb n="98" facs="tcp:109751:50"/> made with Emolient Herbs, Barks, or Roots; and Fomentations of the like,
+uſed to the lower parts, to ſoften and moiſten the affected Places.</p>
+               <p>And thus much may ſuf<g ref="char:EOLhyphen"/>fice for the Ordering a Wo<g ref="char:EOLhyphen"/>man from her Lying in, to her going a broad
+again. And If I have paſſed over any Accident that does not uſually, or by the courſe of
+Nature, <hi>&amp;c.</hi> happen, no doubt but a Skillful Midwife or Nurſe will find a means to
+Remedy it, or for defect of Skill, timely apply them<g ref="char:EOLhyphen"/>ſelves to ſome able Surgeon or
+Phyſitian. And ſo from hence I haſte to the Child, which I have left ſo long, to
+<pb n="99" facs="tcp:109751:50"/> give Directions for the well Ordering it, as to its Health and Thriving,
+<hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="16" type="chapter">
+               <head>
+                  <hi>CHAP. XVI.</hi> Of Nurſes, How they ought to be Qualified and Dieted.</head>
+               <p>IN the firſt place, if you take not the care of bring<g ref="char:EOLhyphen"/>ing it up your ſelf, make choice of a
+good wholeſome cleanly Nurſe, whoſe Com<g ref="char:EOLhyphen"/>plexion and Conſtitution is agreeable to the
+Childs. See that her Milk be of middle Subſtance, neither too Thick or inclining to Curdling, or
+too Thin or Wateriſh; for the firſt clogs the Lungs and Stomach of the Child, being
+<pb n="100" facs="tcp:109751:51"/> of a bad and hard digeſtion; and the latter Cauſes Scou<g ref="char:EOLhyphen"/>rings, Gripings;
+and yeild<g ref="char:EOLhyphen"/>eth but little Nouriſhment. As for the quantity of Milk, a Nurſe ſhould rather have
+too much than too little, that the Infant may draw it the more freely, without hard Sucking, to
+gather windy<g ref="char:EOLhyphen"/>neſs in the Stomach, She muſt alſo be of a Merry Temper, not Peeviſh or
+Fretful, given to Anger, or any Violent Paſſions; for theſe tiring the Humours, have a great
+effect on the Child, in as much as the Natural Temperature of the Milk is in ſome mea<g ref="char:EOLhyphen"/>ſure
+altered or changed by it. And this is known by the Colour; if it be blew, it
+<pb n="101" facs="tcp:109751:51"/> denotes the Woman given to Melancholly; if Yellowiſh, to Choller; if
+ſomething in<g ref="char:EOLhyphen"/>clining to Red, it is not well digeſted, and denotes a weak<g ref="char:EOLhyphen"/>neſs in the
+Breaſts through Cold, Hurts, or the like de<g ref="char:EOLhyphen"/>fects, or an Ill Quality or defect in the Blood.
+There<g ref="char:EOLhyphen"/>fore that which is Nouriſh<g ref="char:EOLhyphen"/>ing and wholeſome, is very White; in a Medium be<g ref="char:EOLhyphen"/>tween Thick
+and Thin; and this may be tryed on a Looking-Glaſs, or any other ſmooth Body, for a little
+be<g ref="char:EOLhyphen"/>ing ſpurted on it, if (when the Glaſs is reared a little ſloaping) it run off preſently,
+then it is too Thin; if it ſticks, and is hard to move, then it is too Thick, or Fat;
+<pb n="102" facs="tcp:109751:52"/> but if it ſlide away leaſurely, then it is between both.</p>
+               <p>As to the Age of the Nurſes Milk, I am of opinion it is the beſt at two Months Lying-in;
+&amp; ſo may continue pretty well till the eighth Month, but then it continu<g ref="char:EOLhyphen"/>ally declines. It is
+alſo to be conſidered, that to breed good Milk, her Meats and Drinks, muſt be wholeſome and
+Seaſonable. She muſt avoid hot Spices, Strong-waters, Spirits, and Sweet Wines, at leaſt not
+take any great quantity of them, or little quantities often. And by reaſon the Sex of the
+Nurſes Child is likewiſe to be conſidered, I hold that the Milk of a Male Child is
+<pb n="103" facs="tcp:109751:52"/> to be preferred; and for this Reaſon, <hi>viz.</hi> Becauſe it is hotter,
+better Concocted, and not ſo excrementious as of a Girl. And further, an enquiry ought to be
+made, whether the Nurſe you pro<g ref="char:EOLhyphen"/>poſe went her full time, for this is of Moment; becauſe, if
+ſhe did not, ſhe may hap<g ref="char:EOLhyphen"/>pen to be of a Sickly weak Conſtitution, though ſhe may at
+ſundry times appear out<g ref="char:EOLhyphen"/>wardly to be Healthful.</p>
+               <p>Further, as to <hi>Dyet,</hi> all Onions, Leeks, Garlick, Muſtard, Strong Cheeſe, and Bak'd
+Meats with hot Seaſon<g ref="char:EOLhyphen"/>ings, ought to be forborn. And Veal, Mutton, Chick<g ref="char:EOLhyphen"/>ens, Nouriſhing Broth,
+and ſuch Meats, as breed good
+<pb n="104" facs="tcp:109751:53"/> Juice, choſen. Fiſh is too cold and moiſt, unleſs ſhe be of a hot
+Conſtitution. Then let her put into her Pottage Purſlain, Sorrel, Borrage, Bugloſs, Letuce,
+Succory Endive, <hi>&amp;c.</hi> And drink Beer, Ale, or Wine and Water mixed; Mead, Me<g ref="char:EOLhyphen"/>theglin,
+but not too much Cyder, becauſe it ſharpens the Milk, and Gripes the Child. Her exerciſe
+muſt be mode<g ref="char:EOLhyphen"/>rate; and her hours of Slee<g ref="char:EOLhyphen"/>ping ſeaſonable; and take ſpecial Care to keep her
+lit<g ref="char:EOLhyphen"/>tle charge Clean and Sweet in all parts, <hi>viz.</hi> The Noſe, Ears, Eyes, and Mouth, as
+well as the lower parts. If ſhe perceives any part of the Child to Warp, or incline to
+<pb n="105" facs="tcp:109751:53"/> Crookedneſs, ſhe muſt be careful to Swathe it in time, whilſt it is
+tender, that by degrees it may return to ſtraightneſs; or if it ſeem difficult to her to
+Acom<g ref="char:EOLhyphen"/>pliſh it, let her Adviſe the Parents, or ſome able Sur<g ref="char:EOLhyphen"/>gion, before it be gone too far;
+for this has been a miſe<g ref="char:EOLhyphen"/>ry to many in growing Crooked, that might at firſt have been
+prevented, wth a little Care and Coſt, when the Bones and Ligatures were more Flexible.</p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="106" facs="tcp:109751:54"/>
+               <head>
+                  <hi>CHAP. XVII.</hi> How to Order the Child in it's Dreſſings, Lying, Sleeping, Diet,
+<hi>&amp;c.</hi>
+               </head>
+               <p>WHen the Child is open<g ref="char:EOLhyphen"/>ed to be Dreſſed, be<g ref="char:EOLhyphen"/>fore a Fire, Rub and chafe the Back, Belly and
+Hips gently with your Hand, ſome<g ref="char:EOLhyphen"/>times rubing your hand over with Oyl of Roſes or ſweet
+Almonds. This looſens the Skin, and ſupples the Fleſh, ſtirs the Humours from ſet<g ref="char:EOLhyphen"/>ling
+too much in the Joynts or any of the outward parts, and makes it grow. And above all, beware not to
+Swathe it too hard, yet ſo that it may not Lax, or warp in any of
+<pb n="107" facs="tcp:109751:54"/> it's Members. And when it is placed in the Cradle, take care it lies not too
+long on the Back, or on one ſide, but ſhift and turn it, the Head being kept a little raiſed,
+that the Excrements may more eaſily flow from the Brain through the Emun<g ref="char:EOLhyphen"/>ctories. Let the Cradle
+be placed in a convenient warm Room or Chamber, not ſub<g ref="char:EOLhyphen"/>ject to too great a Light, or too much
+Gloomyneſs, for a great Light is offenſive to the Eyes &amp; Brain of a Child, they being but
+weak for a conſiderable time after the Birth; and too much dark keeps them ſo, and
+oppreſſes it by ſtiring up the Melan<g ref="char:EOLhyphen"/>cholly Humour. Too much
+<pb n="108" facs="tcp:109751:55"/> Heat is apt to make it catch cold when it comes into the Air. And cold
+cauſe fleg<g ref="char:EOLhyphen"/>matick Humours, which glu<g ref="char:EOLhyphen"/>tination occaſion ſtuffings or ſtopping in the Head;
+and therefore the Medium is to be preferred. Set not the Cradle or Bed too near a Window or Fire,
+leaſt the Light of either, attract its Eyes; and by ſtraining awry to look at it, becomes
+ſquin<g ref="char:EOLhyphen"/>ting: But let it be placed rather right againſt the Light, that it may look di<g ref="char:EOLhyphen"/>rectly
+forward.</p>
+               <p>And as for Sleeping, un<g ref="char:EOLhyphen"/>till he be two Years Old, there need be no reſtraint of it; but
+rather, when it is Froward or Reſtleſs, means
+<pb n="109" facs="tcp:109751:55"/> uſed to provoke Sleep; unleſs imoderate Sleep, as ſometimes it happens,
+be occaſioned by a defect in Nature, as too great a Moiſture or Watery<g ref="char:EOLhyphen"/>neſs of the Brain,
+<hi>&amp;c.</hi> Then ſuch Remedies muſt be uſed as may Remedy it, <hi>viz.</hi> Boil
+Cinamon, Mace, or Nutmeg, in the Milk, or give it ſome of the diſtilled Water of theſe in a
+little Wine.</p>
+               <p>Suckling the Child muſt be had a regard to, as to the Manner and Quality. As to the firſt of
+theſe, ſometimes ſpirt ſome Milk either upon its Lips, or into its Mouth; and if it's
+drawing be ſtrong, gently ſqueez the breaſt with your finger, that the Milk may flow and
+become
+<pb n="110" facs="tcp:109751:56"/> more eaſie, ſo that it may rather ſeem a Pleaſure than Pain, but ſo
+that it may not ſwallow too faſt, for fear of a ſuffocation, or too great an oppreſſion
+of the Stomach. As to the ſecond, the quan<g ref="char:EOLhyphen"/>tity cannot eaſily be ſet down, ſome Children,
+accor<g ref="char:EOLhyphen"/>ding to their ſtronger or weaker Conſtitutions, requi<g ref="char:EOLhyphen"/>ring more than others; and
+therefore the Nurſes diſ<g ref="char:EOLhyphen"/>cretion muſt proportion it; for too much is almoſt as bad as too
+little, for this breeds groſs Humours, as the other on the contrary cauſes a Pining, or
+Waſt<g ref="char:EOLhyphen"/>ing: And it is held for the firſt five days, Suckling twice a day is ſufficient; and
+ſo
+<pb n="111" facs="tcp:109751:56"/> as it gathers ſtrength the times may be increaſed, but not too many, as
+many Fool<g ref="char:EOLhyphen"/>iſh Nurſes do, claping the Child to the Breaſt every time it Cries, and ſeems
+fro<g ref="char:EOLhyphen"/>ward.</p>
+               <p>Sweetneſs and Cleanlyneſs about Children, much con<g ref="char:EOLhyphen"/>tributes to their Health and Growth; and
+this muſt be obſerved often, eſpecially when it Wakes, or is taken up: And above all avoid
+Frighting them, for that makes them many times fall into Fits, and Epilepſies, or falling
+Sickneſs, and indeed intimidates their Spirits, by making ſo early an impreſ<g ref="char:EOLhyphen"/>ſion on them,
+that growing up with them they are apt
+<pb n="112" facs="tcp:109751:57"/> to ſuddain Frights, Start<g ref="char:EOLhyphen"/>ings, and fears at the fancy of Goblings,
+Spectres, and ſuch Old Wives Tales as they have been Bug-bear'd with in their Infancy.</p>
+               <p>But not to dwell longer upon what every Skillful Nurſe cannot but under<g ref="char:EOLhyphen"/>ſtand, I ſhall
+proceed to what is more Material, <hi>viz.</hi> To Treat of the Diſeaſes in<g ref="char:EOLhyphen"/>cident to Children;
+and preſcribe proper Remedies, which a Nurſe by theſe di<g ref="char:EOLhyphen"/>rections may give them for the
+reſtoring Health, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="113" facs="tcp:109751:57"/>
+               <head>
+                  <hi>CHAP. XVIII.</hi> Of the Diſeaſes Incident to Children: With their Cure.</head>
+               <p>HUrts and Bruiſes often happen to a Child com<g ref="char:EOLhyphen"/>ing out of the Womb, eſpe<g ref="char:EOLhyphen"/>cially in hard
+Labour; and when any ſuch appear, imme<g ref="char:EOLhyphen"/>diately make a Fomentation of Roſes, Melilot, Cammo<g ref="char:EOLhyphen"/>mile
+Flowers, and St. <hi>John's</hi> wort, in White-wine, and bathe the parts with it warm: Anointing
+it after<g ref="char:EOLhyphen"/>ward with a mixture of the Oyl of theſe. Give it a little Black-Cherry-Water, or Ca<g ref="char:EOLhyphen"/>nary
+wherein Saffron has been tempered, and let it reſt; laying a Lenitive Plaiſter of
+<pb n="114" facs="tcp:109751:58"/> White-bread and Bole-Ar<g ref="char:EOLhyphen"/>moniack boild in Milk.</p>
+               <p>Swelling of the Head has ſometimes it's beginning from the Womb; for the Mother being with
+Child, and not careful of her Diet, Crudities, and Raw Hu<g ref="char:EOLhyphen"/>mours are thereby gather<g ref="char:EOLhyphen"/>ed, and breed a
+Wateriſh Blood, which the Child fee<g ref="char:EOLhyphen"/>ding on, and not able to di<g ref="char:EOLhyphen"/>geſt or evacuate during it's
+being in the Matrix, it ſettles in the Head, and cauſes Swellings; and ſometimes from other
+Cauſes, <hi>viz.</hi> Windyneſs, &amp;c. If it pro<g ref="char:EOLhyphen"/>ceeds from Water, it ſub<g ref="char:EOLhyphen"/>jects the Child
+to Vertigo's and Epilepſies, little Sleep, much Fretfulneſs, and Cry<g ref="char:EOLhyphen"/>ing.
+<pb n="115" facs="tcp:109751:58"/> Wind cauſes Pains and Drowſineſs, for theſe let the Child have
+pleaſant Scents to refreſh the Brain, as Flowers or Spices, but not any ſtrong Perfumes. Give
+not any thing that breeds much moiſture, or Phlegme, or any ways ſubjects it to Windyneſs.
+Waſh the Head with the decoction of Sage, Bettony, Agrimony, Cala<g ref="char:EOLhyphen"/>mint, Anny-ſeeds,
+Fennel-ſeeds, Flowers of Cammo<g ref="char:EOLhyphen"/>mile, Red-Roſes boiled in ſpring Water. And lay to the Crown
+of the Head and Temples a Plaiſter, <hi>viz.</hi>
+               </p>
+               <p>Bees-wax an ounce, Oyl of Cammomile and Roſes and <hi>
+                     <g ref="char:V">Ʋ</g>nguentum Comitiſſae,</hi> each
+half an ounce; Sage
+<pb n="116" facs="tcp:109751:59"/> and Bettony Dryed to pow<g ref="char:EOLhyphen"/>der, each two dreams; and give it a little
+<hi>Manna</hi> diſol<g ref="char:EOLhyphen"/>ved in Milk, that may gent<g ref="char:EOLhyphen"/>ly move the Humours. Children have ſometimes
+excreſcences of Fleſh on the Roofs of their Mouths: The Lips cleft, commonly called a
+<hi>Hare-Lip.</hi> And to Remedy theſe, it is properly a Surgeons buſineſs, and be<g ref="char:EOLhyphen"/>yond the
+Sphere of Nurſes, by reaſon they require Inciſion; and therefore I forbear to give directions
+in them, and require the Nurſe or Parents, as ſoon as the Child is of ſtrength to endure the
+ope<g ref="char:EOLhyphen"/>ration, to ſend for an ingeni<g ref="char:EOLhyphen"/>ous Artiſt to Remedy theſe defects.</p>
+               <p>
+                  <pb n="118" facs="tcp:109751:59"/>Diſeaſes in the Eyes, Ears, and Noſe, often happen; and for the firſt,
+if there be a Dullneſs of Sight, Redneſs, or Watery Rheums in the Eyes, waſh them with
+Plan<g ref="char:EOLhyphen"/>tain and Eyebright Water Morning &amp; Evening, beat up a Yolk of an Egg with ſome Oyl of
+Roſes, a Rotten Ap<g ref="char:EOLhyphen"/>ple, ſome Crumbs of White-bread, and a little Bole-Ar<g ref="char:EOLhyphen"/>morick, ſpread it
+thinn up<g ref="char:EOLhyphen"/>on a fine Cloath, and clap another very thin Cloath upon it, to prevent it's go<g ref="char:EOLhyphen"/>ing into
+the Childs Eyes, and ſo bind it over them when it is layed down to reſt; and renew it every
+ſix hours, and the effects will anſwer your Expectation.</p>
+               <p>
+                  <pb n="119" facs="tcp:109751:60"/>If the Noſe be ſtoped with Slimy or Tough Matter, ſo that there is a
+great difficulty in Breathing, then dip a Lint in <hi>
+                     <g ref="char:V">Ʋ</g>nguentum Roſatum</hi> and thruſt up
+the Noſe; and when it is taken out ſpurt up a little White-wine to make it ſneze, and keep it
+very warm.</p>
+               <p>If the Eares run, or are ſtoped up, drop in a drop or two of the Oyl of bitter Al<g ref="char:EOLhyphen"/>monds once
+or twice a day, cleanſing them with Lint twiſted at the end of a ſmall Bod-kin or Wyer, diped
+in Bettony-water. If the Eares be Fretted behind or Galled, take Nut Oyl half an ounce, the like
+quantity of White Bees-wax, and a little of the
+<pb n="120" facs="tcp:109751:60"/> Juice of Houſleek, temper them over a gentle Fire till they may be ſpread
+like a Plaiſter, and apply it to the Sore part.</p>
+               <p>If an <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> or <hi>Thruſh</hi> hap<g ref="char:EOLhyphen"/>pen in the Childs Mouth, diſolve a quarter of
+an ounce of Allom in an ounce of ho<g ref="char:EOLhyphen"/>ney, made thin with White-wine, and Gargle the Mouth with it.
+Then Cool the Mouth with Honey of Roſes, Syrup of Violets, and Plan<g ref="char:EOLhyphen"/>tain Water, well mixed
+to<g ref="char:EOLhyphen"/>gether.</p>
+               <p>Inflamation, or Sweling in the Gums, to Remedy it, Rub the Nape of the Neck, the Jaws, and
+Temples, with Oyl of Roſes; as alſo the Gums with Honey of Roſes,
+<pb n="121" facs="tcp:109751:61"/> and then the Juice of St. <hi>John</hi>'s-wort, well Incorpo<g ref="char:EOLhyphen"/>rated over a
+gentle Fire; laying a hot Figg flit in ſun<g ref="char:EOLhyphen"/>der to the Swelled place.</p>
+               <p>The ſtring under the Tongue ſometime comes from the bottom, and reaches to the tip. This
+requires only to be cut with a very ſmall Inſtrument to a convenient proportion, that the
+tongue may neither be ſtraight<g ref="char:EOLhyphen"/>ned, nor loll out to hinder the utterance of words; and to cure
+the pain it may oc<g ref="char:EOLhyphen"/>caſion, rub it with honey.</p>
+               <p>The Cough is dangerous to little children, by making them Strain &amp; caſt too much. To
+remedy it, take a little Licorice Aniſeeds, Figs, and
+<pb n="113" facs="tcp:109751:61"/> a blade or two of Mace, boil them well in Ale, ſweeten it with white
+Sugar-Candy, and give the Child a ſpoon<g ref="char:EOLhyphen"/>full or two at a time pretty warm.</p>
+               <p>The Navel ſwelling is another Grief Incident to Children; wherefore, when it is any ways
+Inflamed, anoint it with <hi>
+                     <g ref="char:V">Ʋ</g>nguentum Roſatum,</hi> and <hi>Populeon</hi> mixed together; and
+give it cool<g ref="char:EOLhyphen"/>ing things, ſo the ſwelling will abate by ſwathing gent<g ref="char:EOLhyphen"/>ly with a Linnen Cloth,
+and laying on a Poultis of Mallows, Cammomile, and Hoggs-Lard.</p>
+               <p>Griping and Fretting of the Bowels, occaſioned by too much Moiſtneſs or Salt<g ref="char:EOLhyphen"/>neſs,
+<pb n="114" facs="tcp:109751:62"/> is not only Painful but Dangerous to Children. For this, a Cliſter of
+cooling Herbs boiled in Milk, and ſeaſoned with Sugar, is a ſeaſonable relief, taking
+im<g ref="char:EOLhyphen"/>mediately after it, a dram of <hi>Venice</hi> Treacle diſolved in a ſpoonful of
+Treacle-water.</p>
+               <p>Worms are very frequent and troubleſome in Children, Taints their Breath, and makes them Pine
+away, whe<g ref="char:EOLhyphen"/>ther in the Belly or Stomach. Therefore to remove them, with the ſlimy cold Humour they
+are bred of, Boil ſome Tops of Rhue in White-Wine, ſweeten it, and give the Child Morning and
+Night very warm. Then Cummin-ſeed, Navel-wort,
+<pb n="115" facs="tcp:109751:62"/> mix with them a little Ox<g ref="char:EOLhyphen"/>gall and grated Nutmeg, lay them between two thin
+Cloaths, and apply them warm to the Belly, and Stomach.</p>
+               <p>Teeth in Breeding cauſe Pain, and many times Fea<g ref="char:EOLhyphen"/>vours. To make them breed eaſily, beat
+Corral to Pow<g ref="char:EOLhyphen"/>der, mix it in a little diſſol<g ref="char:EOLhyphen"/>ved Allom and Honey, rub the Gums hard with it,
+and it will make way for the Teeth to come out the eaſier: And if, notwithſtanding, they come
+not forward kind<g ref="char:EOLhyphen"/>ly, an inciſion may be made in the Gums. And to aſ<g ref="char:EOLhyphen"/>ſwage and eaſe the Pain
+in breeding Teeth, ſtring the ſmall Roots of Smallage like
+<pb n="116" facs="tcp:109751:63"/> a Neck-lace, and tye it about the Childs Neck.</p>
+               <p>Convulſions, or Fits of the Mother, are very dangerous and troubleſome. For this anoint the
+Stomach and Temples with <hi>Oleum Ireum,</hi> or with Oyl of Lillies; give it agrain of Bezor in a
+ſpoon<g ref="char:EOLhyphen"/>ful of Plantain-water; and Bathe the Forehead with the diſtilled Water of ſweet
+Marjorum.</p>
+               <p>Ruptures, or the falling down of the Tail-gut, muſt be taken ſpeedy care of. This happens
+ſometimes to come into the World with them. To remedy this, the parts ſwelling Out, or falling
+Down, may be bathed with the Decoction of Roſes, Me<g ref="char:EOLhyphen"/>lilot,
+<pb n="117" facs="tcp:109751:63"/> Flowers of Cammo<g ref="char:EOLhyphen"/>mile, Knot-graſs, in fair-water. Then apply this
+Plaiſter to the Part, or as near as may be, <hi>viz.</hi>
+               </p>
+               <p>Take Powder of Maſtick, Olibanum and Sarcocol, each a dram, Syprus-Nuts two drams, bees-wax
+and Oyl of Maſtick each half an ounce, make them into a Plaiſter over a gentle fire by well
+mixing, bind and keep up the parts; and let the Fee<g ref="char:EOLhyphen"/>ding for ſometime be ſparing; eſpecially
+give nothing that cauſes Windyneſs or Cold afflicting Humours, that Lax the Parts, and mainly
+occa<g ref="char:EOLhyphen"/>ſion theſe defects; but rather take ſuch things as are Dry<g ref="char:EOLhyphen"/>ing and Reſtringent.</p>
+               <p>
+                  <pb n="118" facs="tcp:109751:64"/>To retain Urin, and not Piſs a Bed, Take the Pow<g ref="char:EOLhyphen"/>der of a dryed Acorn, and
+that of the Inner Skin of the Gizard of a Capon, give a dram at a time in a ſpoon<g ref="char:EOLhyphen"/>ful of
+White-wine.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>
+                  <hi>CHAP. XIX.</hi> Of the Small Pox in Children: It's Cauſe, Symptoms and Cure.</head>
+               <p>THe Small Pox is a Diſeaſe very incident to Chil<g ref="char:EOLhyphen"/>dren, and is ſo generally known that I
+need not uſe many words to deſcribe it: It proceeds from aduſt Blood mixt with Flegm and
+Chol<g ref="char:EOLhyphen"/>ler; and always beginneth with a Fever, ſoon after
+<pb n="119" facs="tcp:109751:64"/> which there ariſeth ſmall Puſtula's upon the Skin throughout all the
+Body, which do not ſuddenly come forth, but by intermiſſion, in ſome more or leſs,
+according to the quality of the Body infected therewith.</p>
+               <p>If theſe Puſtula's appear red, with general pain, and great heat in the Body, it is a ſign
+it proceeds from Blood. If they come from Choller, they will appear of a Yellow<g ref="char:EOLhyphen"/>iſh Red and Clear
+Colour, with a Pricking Pain in all the Body. But if they come of Flegm, they will appear of a
+Whitiſh colour, and ſcaly. And if they come of Melan<g ref="char:EOLhyphen"/>choly, they will appear Black<g ref="char:EOLhyphen"/>iſh, with
+a pricking Pain.</p>
+               <p>
+                  <pb n="120" facs="tcp:109751:65"/>When they appear in a ſhort time, and look red in their coming out, and
+white after they are come forth, growing ſpeedily to Matura<g ref="char:EOLhyphen"/>tion, and that the Child draws its
+Breath eaſily, and the Fever leaves it, there is great hopes of its recovery. But when the Pox
+lies hid<g ref="char:EOLhyphen"/>den within, and appears not outwardly; or if after they are come out, they ſtrike in
+again, and Vaniſh away; or if they look of a Black Blew<g ref="char:EOLhyphen"/>iſh, and Green colour, and are attended
+with difficulty of Breathing, and a Flux or Lask; alſo when the Pox run together in Bliſters,
+like ſcal<g ref="char:EOLhyphen"/>ding Bladders, and then on the ſudden do ſink down, and
+<pb n="121" facs="tcp:109751:65"/> grow dry, with a hard black Scar or Cruſt, as if it had been burnt with a
+hot Iron, all theſe are very ill ſigns, and denotes Death.</p>
+               <p>In the Cure of this diſtem<g ref="char:EOLhyphen"/>per, the uſual way is to let Blood, in the Baſilica Vein in the
+right Arm: But in Children, and thoſe that are very weak, I hold it better to let it alone, and
+leave the work to Nature, eſpecially in Sucking Children: For when we ſee Nature endea<g ref="char:EOLhyphen"/>vouring
+to expel the Malig<g ref="char:EOLhyphen"/>nity, we ought not to uſe a<g ref="char:EOLhyphen"/>ny means at-all, but leave the whole Operation to
+Na<g ref="char:EOLhyphen"/>ture; which we muſt only help by keeping the Body in a reaſonable heat: But if the
+<pb n="122" facs="tcp:109751:66"/> Pox is ſlow in coming forth, you muſt help Nature with Cordials, and by
+ſweat to thruſt it out from the inter<g ref="char:EOLhyphen"/>riour &amp; Principal Parts: For which purpoſe the
+following Drink is excellent good:</p>
+               <p>Take a quart of Poſſet-ale and a handful of Fennel-ſeed, boil them together till a third
+part be conſumed, then ſtrain it, and add there<g ref="char:EOLhyphen"/>to one dram of Treacle, and one ſcruple of
+Saffron in Powder, mix them together, and give two, three, or four ounces thereof to drink
+Mor<g ref="char:EOLhyphen"/>nings and Evenings, as the caſe requireth,</p>
+               <p>But if the Child be ſo weak that it cannot expel the Diſ<g ref="char:EOLhyphen"/>eaſe, in convenient time, then
+<pb n="123" facs="tcp:109751:66"/> Epithemate the heart with the following Epithemation.</p>
+               <p>℞ <hi>Aquarum roſ. Meliſſae, Card. B. 6. Bugloſs, Morſus Di<g ref="char:EOLhyphen"/>aboli, vini alb,</hi>
+of each 4 ounces, <hi>Aceti Roſ.</hi> two ounces and a half, <hi>Pul. Roſ. Rub. Trium Sanal.
+Cinamoni, Elect. Dia<g ref="char:EOLhyphen"/>morg. frigid.</hi> of each half a dram, <hi>Mithridate</hi> one ounce,
+<hi>Treacle</hi> four drams, mix all theſe together, and let them boil a little, and ſo warm,
+E<g ref="char:EOLhyphen"/>pithemate the heart. When you have done this, give ſome expulſive Drink, or Electuary, as the
+Cauſe re<g ref="char:EOLhyphen"/>quires, and cauſe him to ſweat upon it.</p>
+               <p>When the Pox are come out, to prevent Diſ-figuring the Face, as Pitting, beſure
+<pb n="124" facs="tcp:109751:67"/> let them alone till they grow white, and come to matura<g ref="char:EOLhyphen"/>tion; and then open
+every Puſtula on the top with a Pin, and then thruſt out the Matter very gently with a ſoft
+Linnen Cloth; and if you perceive them to fill a<g ref="char:EOLhyphen"/>gain, open them as you did at firſt, for if you
+ſuffer the Matter which is in them to remain overlong, it will fret and corrode the Fleſh,
+which cauſes thoſe Pits that remain after the ſmall Pox is gone. When you have done this,
+anoint the place with the following Oyntment:</p>
+               <p>Take Elder-leaves one handful, Marigolds two handfuls, French Mallows one handful, Barrows
+Greaſe
+<pb n="125" facs="tcp:109751:67"/> ſix Ounces; bruiſe the Herbs in a Morter, and then boil them with the
+Greaſe in a Pewter Diſh, on a Chafing-diſh of Coals, until the Juice of the Herbs be
+conſumed; then ſtrain it, and anoint the face therewith: The beſt time to make it, is in the
+middle or latter end of <hi>May.</hi> You muſt anoint the place grieved with a Feather, and as it
+drieth in, anoint it a<g ref="char:EOLhyphen"/>gain; and ſo continue it, and it will ſoon dry them up, and keep the
+place from Pits and Holes: Alſo if you an<g ref="char:EOLhyphen"/>noint the Pox with the Oyl of Sweet-Almonds, newly
+drawn, three or four times a day, (which you muſt be<g ref="char:EOLhyphen"/>ſure to do, as ſoon as the
+<pb n="126" facs="tcp:109751:68"/> Pocks are grown white, and come to maturation, it will Cure them without Pits
+or Spots, and eaſeth the Pain and burning.</p>
+               <p>If after the Pocks are come out, they do not grow to Maturation, you may help it by this
+decoction: Take Mallows one handful, Figs, twelve in Number, Water a quart; cut the Figs ſmall,
+and boil all together until half or more be Conſumed, and then wet a fine ſoft Lin<g ref="char:EOLhyphen"/>nen Cloth
+therein, and touch the Place therewith often<g ref="char:EOLhyphen"/>times, and it will ſoon bring them to
+Maturation.</p>
+            </div>
+            <div n="20" type="chapter">
+               <pb n="127" facs="tcp:109751:68"/>
+               <head>
+                  <hi>CHAP. XX.</hi> Of Barrenneſs: Shewing the Signs of Inſufficiency in Men and Women,
+and Remedies againſt it: With other choice Secrets.</head>
+               <p>IF it be a Bleſſing to have Children, as certainly it is, then Barrenneſs muſt needs be
+a great Curſe. We will therefore enquire into the different kinds and occa<g ref="char:EOLhyphen"/>ſions of it. —
+Barrenneſs is Natural and Accidental.</p>
+               <p>Natural Barrenneſs is that which happens to Women, when there appears no viſible
+obſtruction either in her or her Husband: Which may proceed from a Natural
+<pb n="128" facs="tcp:109751:69"/> Cauſe, for where both Men and Woman are of one Com<g ref="char:EOLhyphen"/>plexion or
+Conſtitution, they rarely have any Children: For if the Conſtitution of the Woman be hot and
+dry, as well as of the Man, there can be no Conception; and if on the contrary, the Man ſhould be
+of a cold and moiſt Con<g ref="char:EOLhyphen"/>ſtitution, as well as the Wo<g ref="char:EOLhyphen"/>man, the effect would be the ſame: And
+the way to help this, is for Young People before they Marry, to ob<g ref="char:EOLhyphen"/>ſerve each others
+Conſtitu<g ref="char:EOLhyphen"/>tions, if they deſign to have Children: For Diſcordant Natures make the only
+har<g ref="char:EOLhyphen"/>mony in the work of Gene<g ref="char:EOLhyphen"/>ration.</p>
+               <p>There is another Cauſe of
+<pb n="129" facs="tcp:109751:69"/> Natural Barrenneſs alſo, which is occaſion'd by letting Young Virgins
+Blood in the Arm, before their Monthly Courſes are come down, which is uſually in the
+four<g ref="char:EOLhyphen"/>teenth and fifteenth Years of their Age, and ſometimes perhaps before the thir<g ref="char:EOLhyphen"/>teenth, but
+never before the twelfth: For being before thoſe Purgations uſually in<g ref="char:EOLhyphen"/>diſpoſed by
+fulneſs of Blood, they commonly open a Vein in the Arm, which being of<g ref="char:EOLhyphen"/>ten repeated, diverts the
+Blood from its proper Chan<g ref="char:EOLhyphen"/>nel, that it comes not down into the Womb, which by that means dries up,
+and the Young Woman is thereby rendred Barren. The way
+<pb n="130" facs="tcp:109751:70"/> to prevent which, is to let no Virgin Blood in the Arm till her Courſes are
+well come down; but rather in the Foot, which will be a means to draw the Courſes downwards.</p>
+               <p>Another Cauſe of Barren<g ref="char:EOLhyphen"/>neſs is the Debility of Per<g ref="char:EOLhyphen"/>ſons in Copulation; if Per<g ref="char:EOLhyphen"/>ſons
+perform not that Act with all the Heat and Ardour that Nature requires, they may as well let it
+alone, and expect to have Children without it: For Frigidity and Coldneſs never produces
+Conception: To help this, ſuch things are to be taken as do increaſe the Seed and ſtir up, to
+Venery, and fur<g ref="char:EOLhyphen"/>ther Conception, <hi>viz.</hi> Eggs,
+<pb n="131" facs="tcp:109751:70"/> Milk Rice boil'd in Milk, Spar<g ref="char:EOLhyphen"/>rows Brains, Fleſh, Bones and all; the
+Stones and Piz<g ref="char:EOLhyphen"/>zles of Bulls, Bucks, Rams Boars; alſo Cock-ſtones, Lamb-ſtones, Partridge,
+Quails, and Pheaſants Eggs. And take this for a Rule, That whatever any Creature is addicted
+unto, they ſtir up the ſame quality in the Man or Woman that Eats them. And therefore
+Partridges, Quails, Sparrows, <hi>&amp;c.</hi> being extreamly addicted to Vene<g ref="char:EOLhyphen"/>ry, work the ſame
+effect in thoſe Men and Women that Eat them. And in what part of the Body the Facul<g ref="char:EOLhyphen"/>ty which you
+wou'd ſtreng<g ref="char:EOLhyphen"/>then, lies, take the ſame part of the Body of another Crea<g ref="char:EOLhyphen"/>ture,
+<pb n="132" facs="tcp:109751:71"/> in whom that Faculty is ſtrong, as a Medicine. As, to the preſent
+purpoſe, The Procreative Faculty lies in the Teſticles; therefore Cock-ſtones, Lamb-ſtones,
+<hi>&amp;c.</hi> are proper to ſtir up Venery. This alſo is a choice Secret, That all Creatures
+that are fruitful being eaten, makes them fruitful that Eats them.</p>
+               <p>But that it may be known whether the Cauſe of Bar<g ref="char:EOLhyphen"/>renneſs be in Man or Wo<g ref="char:EOLhyphen"/>man, I ſhall
+briefly ſhew the ſigns of Inſufficiency in either</p>
+               <p>Signs and Cauſes of Inſuf<g ref="char:EOLhyphen"/>ficiency in Man, may be the Vitiouſneſs in the Yard, by being
+Crooked, diſtorted, or
+<pb n="133" facs="tcp:109751:71"/> broken, whereby the ways and paſſages through which the Seed ſhould
+flow, come to be ſtopped. Alſo the Weakneſs and Tenderneſs of the Yard, whereby it is not
+ſtrongly enough erected to inject the Seed into the Womb: Alſo if the Stones are hurt, ſo
+that they cann't perform their Office in pro<g ref="char:EOLhyphen"/>ducing Seed; or if they be oppreſs'd with any Tumor
+or Inflamation, or drawn up within the Belly, not appear<g ref="char:EOLhyphen"/>ing outwardly. Theſe are Signs of
+Inſufficiency and Cauſes of Barrenneſs; Drunk<g ref="char:EOLhyphen"/>enneſs and Gluttony; and o<g ref="char:EOLhyphen"/>ther Exceſſes,
+do alſo hinder Men from Fruitfulneſs, and make 'em unfit for Genera<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <pb n="134" facs="tcp:109751:72"/>Signs and Cauſes of Inſuf<g ref="char:EOLhyphen"/>ficiency in Women, are ma<g ref="char:EOLhyphen"/>ny: Little Women are
+ge<g ref="char:EOLhyphen"/>nerally more apt to conceive than Great, and Slender than Groſs; alſo thoſe that are
+Black, than thoſe that are Pale and Wan: To have the Veins very conſpicuous, and the Breaſts
+large, betokens Fruitfulneſs: And the others are the contrary. The Irre<g ref="char:EOLhyphen"/>gularity of the monthly
+Courſes, the ſtraitneſs of the Pudenda, or Privities, where<g ref="char:EOLhyphen"/>by Women become Imperfo<g ref="char:EOLhyphen"/>rate; the
+Immoderate moi<g ref="char:EOLhyphen"/>ſture of the Womb, which deſtroys the Seed, alſo the Immoderate heat of the
+Womb, are all Signs of In<g ref="char:EOLhyphen"/>ſufficiency, and Cauſes of Barrenneſs in Women.</p>
+               <p>
+                  <pb n="135" facs="tcp:109751:72"/>If you would know whe<g ref="char:EOLhyphen"/>ther the fault lies in the Man or the Woman, Sprinkle
+the Mans Urine upon one Lettice Leaf, and the Womans upon another; and that which dries away
+firſt, is unfruit<g ref="char:EOLhyphen"/>ful. Alſo take five Wheat Corns and ſeven Beans, put them into an Earthen
+Pot, and let the Party make Wa<g ref="char:EOLhyphen"/>ter therein; let this ſtand ſeven Days, and if in that time they
+begin to Sprout, then the Party is fruitful; but if they Sprout not, then the Party is Barren
+whether it be Man or Woman. This is a certain Sign.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
